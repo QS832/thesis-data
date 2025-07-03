@@ -1,0 +1,800 @@
+split : 6, grayscaling: 17203, threshold : 17916, morphologyEx : 8169, Loop duration : 38277, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 8959, start: 1750251644350622, End: 1750251644388899, idts: 1750251644385714
+Processing time (μs): 26091
+split : 3, grayscaling: 395, threshold : 1182, morphologyEx : 838, Loop duration : 8596, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 6499, start: 1750251644389259, End: 1750251644397855, idts: 1750251644397824
+Processing time (μs): 2023
+split : 3, grayscaling: 293, threshold : 806, morphologyEx : 791, Loop duration : 6531, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 4854, start: 1750251644397967, End: 1750251644404499, idts: 1750251644404467
+Processing time (μs): 1600
+split : 2, grayscaling: 265, threshold : 752, morphologyEx : 729, Loop duration : 6256, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 4701, start: 1750251644404613, End: 1750251644410870, idts: 1750251644410838
+Processing time (μs): 1483
+split : 2, grayscaling: 226, threshold : 731, morphologyEx : 758, Loop duration : 5259, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3694, start: 1750251644410989, End: 1750251644416249, idts: 1750251644416218
+Processing time (μs): 1491
+split : 2, grayscaling: 231, threshold : 716, morphologyEx : 723, Loop duration : 5244, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3729, start: 1750251644416369, End: 1750251644421613, idts: 1750251644421583
+Processing time (μs): 1441
+split : 2, grayscaling: 226, threshold : 704, morphologyEx : 762, Loop duration : 5227, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3685, start: 1750251644421729, End: 1750251644426957, idts: 1750251644426926
+Processing time (μs): 1468
+split : 1, grayscaling: 240, threshold : 776, morphologyEx : 737, Loop duration : 5264, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3676, start: 1750251644427074, End: 1750251644432338, idts: 1750251644432308
+Processing time (μs): 1514
+split : 2, grayscaling: 240, threshold : 737, morphologyEx : 736, Loop duration : 5262, horziontal slcing: 38, vertical slicing:3, trajectory: 0, Recv img: 3691, start: 1750251644432453, End: 1750251644437716, idts: 1750251644437662
+Processing time (μs): 1475
+split : 2, grayscaling: 255, threshold : 736, morphologyEx : 758, Loop duration : 5378, horziontal slcing: 43, vertical slicing:3, trajectory: 3, Recv img: 3784, start: 1750251644437837, End: 1750251644443215, idts: 1750251644443166
+Processing time (μs): 1496
+split : 2, grayscaling: 247, threshold : 760, morphologyEx : 774, Loop duration : 5399, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3772, start: 1750251644443341, End: 1750251644448741, idts: 1750251644448693
+Processing time (μs): 1536
+split : 2, grayscaling: 244, threshold : 729, morphologyEx : 636, Loop duration : 5226, horziontal slcing: 42, vertical slicing:9, trajectory: 1, Recv img: 3764, start: 1750251644448862, End: 1750251644454088, idts: 1750251644454044
+Processing time (μs): 1367
+split : 3, grayscaling: 255, threshold : 787, morphologyEx : 675, Loop duration : 5360, horziontal slcing: 41, vertical slicing:12, trajectory: 1, Recv img: 3790, start: 1750251644454212, End: 1750251644459572, idts: 1750251644459520
+Processing time (μs): 1465
+split : 2, grayscaling: 226, threshold : 700, morphologyEx : 707, Loop duration : 5249, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3744, start: 1750251644459692, End: 1750251644464942, idts: 1750251644464890
+Processing time (μs): 1409
+split : 2, grayscaling: 214, threshold : 735, morphologyEx : 760, Loop duration : 5340, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3753, start: 1750251644465069, End: 1750251644470410, idts: 1750251644470366
+Processing time (μs): 1497
+split : 2, grayscaling: 279, threshold : 806, morphologyEx : 687, Loop duration : 5375, horziontal slcing: 41, vertical slicing:8, trajectory: 1, Recv img: 3782, start: 1750251644470527, End: 1750251644475902, idts: 1750251644475853
+Processing time (μs): 1495
+split : 2, grayscaling: 233, threshold : 727, morphologyEx : 645, Loop duration : 5231, horziontal slcing: 42, vertical slicing:11, trajectory: 1, Recv img: 3753, start: 1750251644476076, End: 1750251644481308, idts: 1750251644481256
+Processing time (μs): 1374
+split : 2, grayscaling: 245, threshold : 763, morphologyEx : 658, Loop duration : 5305, horziontal slcing: 41, vertical slicing:10, trajectory: 1, Recv img: 3767, start: 1750251644481420, End: 1750251644486725, idts: 1750251644486662
+Processing time (μs): 1423
+split : 2, grayscaling: 248, threshold : 733, morphologyEx : 743, Loop duration : 5294, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3727, start: 1750251644486861, End: 1750251644492156, idts: 1750251644492108
+Processing time (μs): 1478
+split : 2, grayscaling: 291, threshold : 817, morphologyEx : 726, Loop duration : 5383, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3749, start: 1750251644492282, End: 1750251644497666, idts: 1750251644497618
+Processing time (μs): 1545
+split : 2, grayscaling: 262, threshold : 758, morphologyEx : 652, Loop duration : 5541, horziontal slcing: 41, vertical slicing:10, trajectory: 0, Recv img: 4021, start: 1750251644497797, End: 1750251644503339, idts: 1750251644503281
+Processing time (μs): 1412
+split : 2, grayscaling: 290, threshold : 783, morphologyEx : 644, Loop duration : 5260, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3728, start: 1750251644503511, End: 1750251644508771, idts: 1750251644508712
+Processing time (μs): 1429
+split : 2, grayscaling: 348, threshold : 853, morphologyEx : 625, Loop duration : 5396, horziontal slcing: 41, vertical slicing:8, trajectory: 1, Recv img: 3812, start: 1750251644508918, End: 1750251644514314, idts: 1750251644514259
+Processing time (μs): 1480
+split : 2, grayscaling: 289, threshold : 769, morphologyEx : 671, Loop duration : 5317, horziontal slcing: 40, vertical slicing:8, trajectory: 1, Recv img: 3765, start: 1750251644514447, End: 1750251644519764, idts: 1750251644519703
+Processing time (μs): 1442
+split : 3, grayscaling: 357, threshold : 846, morphologyEx : 630, Loop duration : 5337, horziontal slcing: 39, vertical slicing:4, trajectory: 0, Recv img: 3765, start: 1750251644519902, End: 1750251644525239, idts: 1750251644525189
+Processing time (μs): 1479
+split : 3, grayscaling: 259, threshold : 764, morphologyEx : 632, Loop duration : 5256, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3759, start: 1750251644525369, End: 1750251644530625, idts: 1750251644530574
+Processing time (μs): 1399
+split : 2, grayscaling: 233, threshold : 717, morphologyEx : 669, Loop duration : 5368, horziontal slcing: 39, vertical slicing:3, trajectory: 0, Recv img: 3884, start: 1750251644530768, End: 1750251644536136, idts: 1750251644536082
+Processing time (μs): 1388
+split : 2, grayscaling: 250, threshold : 737, morphologyEx : 634, Loop duration : 5222, horziontal slcing: 39, vertical slicing:6, trajectory: 1, Recv img: 3749, start: 1750251644536267, End: 1750251644541489, idts: 1750251644541435
+Processing time (μs): 1373
+split : 3, grayscaling: 305, threshold : 775, morphologyEx : 626, Loop duration : 5229, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3729, start: 1750251644541621, End: 1750251644546851, idts: 1750251644546797
+Processing time (μs): 1404
+split : 3, grayscaling: 245, threshold : 832, morphologyEx : 719, Loop duration : 5420, horziontal slcing: 41, vertical slicing:3, trajectory: 0, Recv img: 3781, start: 1750251644546973, End: 1750251644552394, idts: 1750251644552351
+Processing time (μs): 1554
+split : 3, grayscaling: 251, threshold : 736, morphologyEx : 700, Loop duration : 5285, horziontal slcing: 49, vertical slicing:4, trajectory: 1, Recv img: 3752, start: 1750251644552508, End: 1750251644557794, idts: 1750251644557752
+Processing time (μs): 1439
+split : 2, grayscaling: 251, threshold : 733, morphologyEx : 738, Loop duration : 5320, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3753, start: 1750251644557890, End: 1750251644563211, idts: 1750251644563160
+Processing time (μs): 1473
+split : 2, grayscaling: 301, threshold : 783, morphologyEx : 761, Loop duration : 5572, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3932, start: 1750251644563351, End: 1750251644568924, idts: 1750251644568873
+Processing time (μs): 1546
+split : 2, grayscaling: 242, threshold : 718, morphologyEx : 755, Loop duration : 5338, horziontal slcing: 48, vertical slicing:2, trajectory: 3, Recv img: 3765, start: 1750251644569016, End: 1750251644574355, idts: 1750251644574310
+Processing time (μs): 1475
+split : 2, grayscaling: 235, threshold : 714, morphologyEx : 740, Loop duration : 5324, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3759, start: 1750251644574478, End: 1750251644579802, idts: 1750251644579734
+Processing time (μs): 1456
+split : 2, grayscaling: 247, threshold : 774, morphologyEx : 709, Loop duration : 5332, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3751, start: 1750251644579917, End: 1750251644585250, idts: 1750251644585198
+Processing time (μs): 1485
+split : 2, grayscaling: 248, threshold : 758, morphologyEx : 751, Loop duration : 5404, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3804, start: 1750251644585377, End: 1750251644590782, idts: 1750251644590736
+Processing time (μs): 1511
+split : 2, grayscaling: 231, threshold : 740, morphologyEx : 760, Loop duration : 5387, horziontal slcing: 40, vertical slicing:3, trajectory: 1, Recv img: 3793, start: 1750251644590908, End: 1750251644596296, idts: 1750251644596248
+Processing time (μs): 1502
+split : 2, grayscaling: 236, threshold : 711, morphologyEx : 748, Loop duration : 5349, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3800, start: 1750251644596419, End: 1750251644601769, idts: 1750251644601722
+Processing time (μs): 1461
+split : 3, grayscaling: 236, threshold : 717, morphologyEx : 749, Loop duration : 5356, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3800, start: 1750251644601890, End: 1750251644607246, idts: 1750251644607202
+Processing time (μs): 1469
+split : 2, grayscaling: 258, threshold : 1239, morphologyEx : 738, Loop duration : 5865, horziontal slcing: 46, vertical slicing:3, trajectory: 0, Recv img: 3795, start: 1750251644607365, End: 1750251644613230, idts: 1750251644613188
+Processing time (μs): 1979
+split : 2, grayscaling: 220, threshold : 712, morphologyEx : 741, Loop duration : 5318, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3775, start: 1750251644613346, End: 1750251644618665, idts: 1750251644618619
+Processing time (μs): 1455
+split : 2, grayscaling: 233, threshold : 714, morphologyEx : 772, Loop duration : 5361, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3787, start: 1750251644618792, End: 1750251644624153, idts: 1750251644624108
+Processing time (μs): 1488
+split : 2, grayscaling: 224, threshold : 699, morphologyEx : 763, Loop duration : 5331, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3774, start: 1750251644624267, End: 1750251644629599, idts: 1750251644629552
+Processing time (μs): 1464
+split : 2, grayscaling: 235, threshold : 710, morphologyEx : 739, Loop duration : 5344, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3805, start: 1750251644629722, End: 1750251644635067, idts: 1750251644635020
+Processing time (μs): 1451
+split : 3, grayscaling: 247, threshold : 788, morphologyEx : 753, Loop duration : 5397, horziontal slcing: 44, vertical slicing:4, trajectory: 0, Recv img: 3762, start: 1750251644635189, End: 1750251644640586, idts: 1750251644640543
+Processing time (μs): 1544
+split : 3, grayscaling: 293, threshold : 778, morphologyEx : 743, Loop duration : 5410, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3800, start: 1750251644640698, End: 1750251644646108, idts: 1750251644646063
+Processing time (μs): 1524
+split : 3, grayscaling: 253, threshold : 760, morphologyEx : 777, Loop duration : 5434, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3806, start: 1750251644646225, End: 1750251644651659, idts: 1750251644651615
+Processing time (μs): 1540
+split : 2, grayscaling: 229, threshold : 725, morphologyEx : 733, Loop duration : 5352, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3806, start: 1750251644651835, End: 1750251644657188, idts: 1750251644657144
+Processing time (μs): 1460
+split : 2, grayscaling: 264, threshold : 777, morphologyEx : 736, Loop duration : 5392, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3790, start: 1750251644657302, End: 1750251644662694, idts: 1750251644662650
+Processing time (μs): 1515
+split : 3, grayscaling: 245, threshold : 723, morphologyEx : 715, Loop duration : 5325, horziontal slcing: 44, vertical slicing:5, trajectory: 3, Recv img: 3792, start: 1750251644662808, End: 1750251644668133, idts: 1750251644668091
+Processing time (μs): 1441
+split : 2, grayscaling: 256, threshold : 776, morphologyEx : 640, Loop duration : 5286, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3763, start: 1750251644668226, End: 1750251644673512, idts: 1750251644673452
+Processing time (μs): 1418
+split : 2, grayscaling: 228, threshold : 721, morphologyEx : 680, Loop duration : 5294, horziontal slcing: 41, vertical slicing:7, trajectory: 1, Recv img: 3794, start: 1750251644673592, End: 1750251644678886, idts: 1750251644678837
+Processing time (μs): 1403
+split : 2, grayscaling: 223, threshold : 743, morphologyEx : 752, Loop duration : 5384, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3799, start: 1750251644679007, End: 1750251644684391, idts: 1750251644684345
+Processing time (μs): 1497
+split : 3, grayscaling: 270, threshold : 751, morphologyEx : 756, Loop duration : 5382, horziontal slcing: 38, vertical slicing:4, trajectory: 1, Recv img: 3785, start: 1750251644684516, End: 1750251644689898, idts: 1750251644689853
+Processing time (μs): 1510
+split : 2, grayscaling: 227, threshold : 706, morphologyEx : 745, Loop duration : 5320, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3775, start: 1750251644690018, End: 1750251644695339, idts: 1750251644695292
+Processing time (μs): 1453
+split : 2, grayscaling: 271, threshold : 752, morphologyEx : 763, Loop duration : 5387, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3782, start: 1750251644695496, End: 1750251644700884, idts: 1750251644700836
+Processing time (μs): 1517
+split : 2, grayscaling: 234, threshold : 706, morphologyEx : 747, Loop duration : 5353, horziontal slcing: 42, vertical slicing:3, trajectory: 1, Recv img: 3808, start: 1750251644701002, End: 1750251644706355, idts: 1750251644706310
+Processing time (μs): 1455
+split : 2, grayscaling: 226, threshold : 697, morphologyEx : 769, Loop duration : 5360, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3802, start: 1750251644706477, End: 1750251644711838, idts: 1750251644711793
+Processing time (μs): 1468
+split : 2, grayscaling: 226, threshold : 701, morphologyEx : 738, Loop duration : 5316, horziontal slcing: 44, vertical slicing:3, trajectory: 1, Recv img: 3781, start: 1750251644711954, End: 1750251644717271, idts: 1750251644717224
+Processing time (μs): 1441
+split : 2, grayscaling: 219, threshold : 740, morphologyEx : 759, Loop duration : 5394, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3801, start: 1750251644717385, End: 1750251644722779, idts: 1750251644722734
+Processing time (μs): 1501
+split : 2, grayscaling: 230, threshold : 726, morphologyEx : 734, Loop duration : 5337, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3786, start: 1750251644722899, End: 1750251644728236, idts: 1750251644728190
+Processing time (μs): 1462
+split : 2, grayscaling: 222, threshold : 694, morphologyEx : 760, Loop duration : 5317, horziontal slcing: 44, vertical slicing:3, trajectory: 1, Recv img: 3770, start: 1750251644728365, End: 1750251644733682, idts: 1750251644733638
+Processing time (μs): 1456
+split : 3, grayscaling: 274, threshold : 758, morphologyEx : 749, Loop duration : 5354, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3755, start: 1750251644733838, End: 1750251644739193, idts: 1750251644739149
+Processing time (μs): 1510
+split : 3, grayscaling: 356, threshold : 842, morphologyEx : 739, Loop duration : 5477, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3806, start: 1750251644739313, End: 1750251644744791, idts: 1750251644744746
+Processing time (μs): 1584
+split : 3, grayscaling: 248, threshold : 753, morphologyEx : 748, Loop duration : 5364, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3774, start: 1750251644744915, End: 1750251644750280, idts: 1750251644750236
+Processing time (μs): 1504
+split : 2, grayscaling: 239, threshold : 777, morphologyEx : 759, Loop duration : 5476, horziontal slcing: 48, vertical slicing:4, trajectory: 0, Recv img: 3841, start: 1750251644750398, End: 1750251644755874, idts: 1750251644755829
+Processing time (μs): 1538
+split : 2, grayscaling: 229, threshold : 740, morphologyEx : 656, Loop duration : 5252, horziontal slcing: 40, vertical slicing:8, trajectory: 1, Recv img: 3741, start: 1750251644755988, End: 1750251644761241, idts: 1750251644761177
+Processing time (μs): 1398
+split : 2, grayscaling: 235, threshold : 707, morphologyEx : 741, Loop duration : 5332, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3795, start: 1750251644761380, End: 1750251644766712, idts: 1750251644766667
+Processing time (μs): 1450
+split : 2, grayscaling: 309, threshold : 814, morphologyEx : 744, Loop duration : 5433, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3783, start: 1750251644766830, End: 1750251644772263, idts: 1750251644772218
+Processing time (μs): 1560
+split : 2, grayscaling: 246, threshold : 731, morphologyEx : 751, Loop duration : 5387, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3813, start: 1750251644772382, End: 1750251644777769, idts: 1750251644777722
+Processing time (μs): 1484
+split : 2, grayscaling: 252, threshold : 752, morphologyEx : 748, Loop duration : 5400, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3810, start: 1750251644777896, End: 1750251644783296, idts: 1750251644783251
+Processing time (μs): 1502
+split : 2, grayscaling: 267, threshold : 750, morphologyEx : 757, Loop duration : 5370, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3768, start: 1750251644783466, End: 1750251644788836, idts: 1750251644788789
+Processing time (μs): 1509
+split : 3, grayscaling: 242, threshold : 724, morphologyEx : 733, Loop duration : 5343, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3794, start: 1750251644788957, End: 1750251644794300, idts: 1750251644794253
+Processing time (μs): 1460
+split : 2, grayscaling: 241, threshold : 750, morphologyEx : 759, Loop duration : 5392, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3787, start: 1750251644794423, End: 1750251644799815, idts: 1750251644799763
+Processing time (μs): 1511
+split : 3, grayscaling: 231, threshold : 758, morphologyEx : 758, Loop duration : 5380, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3770, start: 1750251644799940, End: 1750251644805321, idts: 1750251644805272
+Processing time (μs): 1519
+split : 2, grayscaling: 232, threshold : 758, morphologyEx : 762, Loop duration : 5411, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3800, start: 1750251644805444, End: 1750251644810856, idts: 1750251644810810
+Processing time (μs): 1522
+split : 2, grayscaling: 228, threshold : 741, morphologyEx : 757, Loop duration : 5384, horziontal slcing: 40, vertical slicing:3, trajectory: 1, Recv img: 3796, start: 1750251644810977, End: 1750251644816361, idts: 1750251644816316
+Processing time (μs): 1500
+split : 2, grayscaling: 247, threshold : 717, morphologyEx : 672, Loop duration : 5297, horziontal slcing: 40, vertical slicing:5, trajectory: 1, Recv img: 3801, start: 1750251644816483, End: 1750251644821780, idts: 1750251644821722
+Processing time (μs): 1391
+split : 2, grayscaling: 247, threshold : 774, morphologyEx : 700, Loop duration : 5294, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3730, start: 1750251644821940, End: 1750251644827234, idts: 1750251644827193
+Processing time (μs): 1476
+split : 3, grayscaling: 255, threshold : 773, morphologyEx : 764, Loop duration : 5402, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3775, start: 1750251644827328, End: 1750251644832730, idts: 1750251644832684
+Processing time (μs): 1540
+split : 2, grayscaling: 255, threshold : 733, morphologyEx : 742, Loop duration : 5353, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3787, start: 1750251644832850, End: 1750251644838204, idts: 1750251644838158
+Processing time (μs): 1477
+split : 3, grayscaling: 262, threshold : 745, morphologyEx : 765, Loop duration : 5383, horziontal slcing: 48, vertical slicing:3, trajectory: 1, Recv img: 3774, start: 1750251644838328, End: 1750251644843711, idts: 1750251644843666
+Processing time (μs): 1513
+split : 2, grayscaling: 227, threshold : 695, morphologyEx : 680, Loop duration : 5251, horziontal slcing: 48, vertical slicing:5, trajectory: 1, Recv img: 3776, start: 1750251644843829, End: 1750251644849080, idts: 1750251644849035
+Processing time (μs): 1377
+split : 2, grayscaling: 256, threshold : 793, morphologyEx : 746, Loop duration : 5410, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3783, start: 1750251644849198, End: 1750251644854609, idts: 1750251644854563
+Processing time (μs): 1541
+split : 2, grayscaling: 249, threshold : 743, morphologyEx : 700, Loop duration : 5352, horziontal slcing: 42, vertical slicing:10, trajectory: 1, Recv img: 3802, start: 1750251644854731, End: 1750251644860084, idts: 1750251644860031
+Processing time (μs): 1445
+split : 2, grayscaling: 226, threshold : 699, morphologyEx : 743, Loop duration : 5318, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3783, start: 1750251644860232, End: 1750251644865551, idts: 1750251644865505
+Processing time (μs): 1444
+split : 2, grayscaling: 214, threshold : 687, morphologyEx : 740, Loop duration : 5315, horziontal slcing: 45, vertical slicing:3, trajectory: 3, Recv img: 3792, start: 1750251644865670, End: 1750251644870986, idts: 1750251644870942
+Processing time (μs): 1429
+split : 3, grayscaling: 242, threshold : 766, morphologyEx : 760, Loop duration : 5382, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3766, start: 1750251644871112, End: 1750251644876494, idts: 1750251644876451
+Processing time (μs): 1529
+split : 2, grayscaling: 301, threshold : 777, morphologyEx : 743, Loop duration : 5399, horziontal slcing: 44, vertical slicing:3, trajectory: 0, Recv img: 3787, start: 1750251644876612, End: 1750251644882012, idts: 1750251644881969
+Processing time (μs): 1522
+split : 2, grayscaling: 251, threshold : 765, morphologyEx : 759, Loop duration : 5390, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3776, start: 1750251644882139, End: 1750251644887530, idts: 1750251644887487
+Processing time (μs): 1526
+split : 2, grayscaling: 246, threshold : 1047, morphologyEx : 734, Loop duration : 5657, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3790, start: 1750251644887647, End: 1750251644893305, idts: 1750251644893263
+Processing time (μs): 1783
+split : 2, grayscaling: 257, threshold : 1049, morphologyEx : 734, Loop duration : 5677, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3806, start: 1750251644893417, End: 1750251644899094, idts: 1750251644899052
+Processing time (μs): 1785
+split : 2, grayscaling: 246, threshold : 787, morphologyEx : 723, Loop duration : 5379, horziontal slcing: 48, vertical slicing:3, trajectory: 1, Recv img: 3774, start: 1750251644899205, End: 1750251644904585, idts: 1750251644904544
+Processing time (μs): 1512
+split : 2, grayscaling: 250, threshold : 781, morphologyEx : 703, Loop duration : 5370, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3797, start: 1750251644904692, End: 1750251644910063, idts: 1750251644910020
+Processing time (μs): 1486
+split : 2, grayscaling: 255, threshold : 725, morphologyEx : 789, Loop duration : 5354, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3739, start: 1750251644910200, End: 1750251644915554, idts: 1750251644915502
+Processing time (μs): 1516
+split : 2, grayscaling: 239, threshold : 709, morphologyEx : 774, Loop duration : 5385, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3812, start: 1750251644915666, End: 1750251644921051, idts: 1750251644921005
+Processing time (μs): 1485
+split : 2, grayscaling: 241, threshold : 718, morphologyEx : 735, Loop duration : 5323, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3776, start: 1750251644921172, End: 1750251644926495, idts: 1750251644926451
+Processing time (μs): 1455
+split : 2, grayscaling: 257, threshold : 740, morphologyEx : 765, Loop duration : 5415, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3791, start: 1750251644926618, End: 1750251644932034, idts: 1750251644931963
+Processing time (μs): 1507
+split : 2, grayscaling: 349, threshold : 832, morphologyEx : 733, Loop duration : 5412, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3757, start: 1750251644932150, End: 1750251644937562, idts: 1750251644937516
+Processing time (μs): 1567
+split : 2, grayscaling: 241, threshold : 754, morphologyEx : 743, Loop duration : 5396, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3808, start: 1750251644937681, End: 1750251644943077, idts: 1750251644943030
+Processing time (μs): 1499
+split : 2, grayscaling: 225, threshold : 738, morphologyEx : 735, Loop duration : 5353, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3789, start: 1750251644943196, End: 1750251644948550, idts: 1750251644948503
+Processing time (μs): 1475
+split : 2, grayscaling: 224, threshold : 702, morphologyEx : 733, Loop duration : 5314, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3789, start: 1750251644948674, End: 1750251644953988, idts: 1750251644953944
+Processing time (μs): 1437
+split : 2, grayscaling: 229, threshold : 701, morphologyEx : 745, Loop duration : 5336, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3758, start: 1750251644954110, End: 1750251644959446, idts: 1750251644959358
+Processing time (μs): 1448
+split : 2, grayscaling: 285, threshold : 770, morphologyEx : 749, Loop duration : 5366, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3751, start: 1750251644959563, End: 1750251644964930, idts: 1750251644964881
+Processing time (μs): 1521
+split : 2, grayscaling: 238, threshold : 716, morphologyEx : 768, Loop duration : 5341, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3765, start: 1750251644965048, End: 1750251644970390, idts: 1750251644970343
+Processing time (μs): 1486
+split : 2, grayscaling: 227, threshold : 718, morphologyEx : 786, Loop duration : 5412, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3820, start: 1750251644970515, End: 1750251644975927, idts: 1750251644975882
+Processing time (μs): 1506
+split : 3, grayscaling: 221, threshold : 697, morphologyEx : 751, Loop duration : 5320, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3780, start: 1750251644976048, End: 1750251644981369, idts: 1750251644981324
+Processing time (μs): 1451
+split : 2, grayscaling: 244, threshold : 719, morphologyEx : 762, Loop duration : 5367, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3796, start: 1750251644981492, End: 1750251644986859, idts: 1750251644986813
+Processing time (μs): 1483
+split : 2, grayscaling: 326, threshold : 837, morphologyEx : 760, Loop duration : 5467, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3779, start: 1750251644986982, End: 1750251644992450, idts: 1750251644992406
+Processing time (μs): 1599
+split : 2, grayscaling: 266, threshold : 762, morphologyEx : 750, Loop duration : 5401, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3803, start: 1750251644992624, End: 1750251644998025, idts: 1750251644997982
+Processing time (μs): 1514
+split : 2, grayscaling: 261, threshold : 740, morphologyEx : 744, Loop duration : 5360, horziontal slcing: 43, vertical slicing:4, trajectory: 1, Recv img: 3785, start: 1750251644998142, End: 1750251645003502, idts: 1750251645003462
+Processing time (μs): 1486
+split : 2, grayscaling: 300, threshold : 777, morphologyEx : 698, Loop duration : 5319, horziontal slcing: 51, vertical slicing:5, trajectory: 3, Recv img: 3742, start: 1750251645003614, End: 1750251645008934, idts: 1750251645008891
+Processing time (μs): 1477
+split : 3, grayscaling: 257, threshold : 745, morphologyEx : 685, Loop duration : 5309, horziontal slcing: 43, vertical slicing:4, trajectory: 1, Recv img: 3782, start: 1750251645009028, End: 1750251645014337, idts: 1750251645014290
+Processing time (μs): 1433
+split : 2, grayscaling: 255, threshold : 736, morphologyEx : 810, Loop duration : 5406, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3764, start: 1750251645014428, End: 1750251645019835, idts: 1750251645019787
+Processing time (μs): 1548
+split : 3, grayscaling: 255, threshold : 732, morphologyEx : 748, Loop duration : 5361, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3788, start: 1750251645019905, End: 1750251645025267, idts: 1750251645025221
+Processing time (μs): 1483
+split : 3, grayscaling: 236, threshold : 718, morphologyEx : 735, Loop duration : 5352, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3808, start: 1750251645025390, End: 1750251645030743, idts: 1750251645030697
+Processing time (μs): 1456
+split : 2, grayscaling: 249, threshold : 723, morphologyEx : 774, Loop duration : 5358, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3768, start: 1750251645030866, End: 1750251645036224, idts: 1750251645036179
+Processing time (μs): 1499
+split : 2, grayscaling: 243, threshold : 762, morphologyEx : 754, Loop duration : 5348, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3742, start: 1750251645036346, End: 1750251645041694, idts: 1750251645041649
+Processing time (μs): 1518
+split : 2, grayscaling: 230, threshold : 717, morphologyEx : 752, Loop duration : 5356, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3791, start: 1750251645041814, End: 1750251645047171, idts: 1750251645047123
+Processing time (μs): 1471
+split : 2, grayscaling: 237, threshold : 752, morphologyEx : 733, Loop duration : 5391, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3812, start: 1750251645047291, End: 1750251645052683, idts: 1750251645052637
+Processing time (μs): 1487
+split : 2, grayscaling: 223, threshold : 697, morphologyEx : 752, Loop duration : 5306, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3765, start: 1750251645052803, End: 1750251645058110, idts: 1750251645058063
+Processing time (μs): 1451
+split : 2, grayscaling: 229, threshold : 749, morphologyEx : 740, Loop duration : 5420, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3842, start: 1750251645058231, End: 1750251645063652, idts: 1750251645063606
+Processing time (μs): 1491
+split : 2, grayscaling: 242, threshold : 714, morphologyEx : 757, Loop duration : 5337, horziontal slcing: 43, vertical slicing:3, trajectory: 0, Recv img: 3772, start: 1750251645063773, End: 1750251645069110, idts: 1750251645069065
+Processing time (μs): 1473
+split : 2, grayscaling: 222, threshold : 749, morphologyEx : 762, Loop duration : 5407, horziontal slcing: 46, vertical slicing:3, trajectory: 3, Recv img: 3798, start: 1750251645069234, End: 1750251645074641, idts: 1750251645074596
+Processing time (μs): 1513
+split : 2, grayscaling: 249, threshold : 770, morphologyEx : 693, Loop duration : 5312, horziontal slcing: 39, vertical slicing:5, trajectory: 3, Recv img: 3753, start: 1750251645074759, End: 1750251645080072, idts: 1750251645080023
+Processing time (μs): 1465
+split : 2, grayscaling: 336, threshold : 825, morphologyEx : 631, Loop duration : 5317, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3743, start: 1750251645080266, End: 1750251645085584, idts: 1750251645085512
+Processing time (μs): 1458
+split : 2, grayscaling: 305, threshold : 796, morphologyEx : 629, Loop duration : 5287, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3706, start: 1750251645085711, End: 1750251645090998, idts: 1750251645090891
+Processing time (μs): 1427
+split : 2, grayscaling: 303, threshold : 835, morphologyEx : 648, Loop duration : 5293, horziontal slcing: 41, vertical slicing:7, trajectory: 1, Recv img: 3700, start: 1750251645091126, End: 1750251645096419, idts: 1750251645096361
+Processing time (μs): 1485
+split : 3, grayscaling: 309, threshold : 814, morphologyEx : 650, Loop duration : 5322, horziontal slcing: 41, vertical slicing:8, trajectory: 1, Recv img: 3748, start: 1750251645096545, End: 1750251645101867, idts: 1750251645101810
+Processing time (μs): 1467
+split : 2, grayscaling: 310, threshold : 797, morphologyEx : 650, Loop duration : 5312, horziontal slcing: 40, vertical slicing:7, trajectory: 1, Recv img: 3765, start: 1750251645101987, End: 1750251645107300, idts: 1750251645107250
+Processing time (μs): 1449
+split : 3, grayscaling: 612, threshold : 1092, morphologyEx : 655, Loop duration : 5589, horziontal slcing: 43, vertical slicing:13, trajectory: 1, Recv img: 3722, start: 1750251645107471, End: 1750251645113061, idts: 1750251645112999
+Processing time (μs): 1750
+split : 2, grayscaling: 232, threshold : 697, morphologyEx : 647, Loop duration : 5551, horziontal slcing: 41, vertical slicing:47, trajectory: 1, Recv img: 4064, start: 1750251645113965, End: 1750251645119516, idts: 1750251645119464
+Processing time (μs): 1346
+split : 2, grayscaling: 234, threshold : 719, morphologyEx : 636, Loop duration : 5529, horziontal slcing: 40, vertical slicing:7, trajectory: 1, Recv img: 4064, start: 1750251645120357, End: 1750251645125887, idts: 1750251645125826
+Processing time (μs): 1357
+split : 2, grayscaling: 286, threshold : 756, morphologyEx : 708, Loop duration : 5259, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3699, start: 1750251645126726, End: 1750251645131985, idts: 1750251645131935
+Processing time (μs): 1466
+split : 2, grayscaling: 13244, threshold : 14229, morphologyEx : 760, Loop duration : 19069, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3989, start: 1750251645132691, End: 1750251645151760, idts: 1750251645151714
+Processing time (μs): 14991
+split : 2, grayscaling: 276, threshold : 968, morphologyEx : 907, Loop duration : 6346, horziontal slcing: 51, vertical slicing:4, trajectory: 3, Recv img: 4361, start: 1750251645160453, End: 1750251645166799, idts: 1750251645166748
+Processing time (μs): 1877
+split : 2, grayscaling: 1537, threshold : 2070, morphologyEx : 688, Loop duration : 7769, horziontal slcing: 64, vertical slicing:9, trajectory: 1, Recv img: 4891, start: 1750251645167515, End: 1750251645175285, idts: 1750251645175241
+Processing time (μs): 2760
+split : 3, grayscaling: 353, threshold : 847, morphologyEx : 750, Loop duration : 5706, horziontal slcing: 46, vertical slicing:3, trajectory: 1, Recv img: 4016, start: 1750251645175796, End: 1750251645181503, idts: 1750251645181460
+Processing time (μs): 1600
+split : 3, grayscaling: 241, threshold : 743, morphologyEx : 757, Loop duration : 5522, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3931, start: 1750251645181624, End: 1750251645187146, idts: 1750251645187100
+Processing time (μs): 1503
+split : 2, grayscaling: 275, threshold : 770, morphologyEx : 723, Loop duration : 5459, horziontal slcing: 43, vertical slicing:4, trajectory: 0, Recv img: 3873, start: 1750251645187266, End: 1750251645192726, idts: 1750251645192682
+Processing time (μs): 1495
+split : 3, grayscaling: 241, threshold : 728, morphologyEx : 716, Loop duration : 5392, horziontal slcing: 47, vertical slicing:5, trajectory: 0, Recv img: 3854, start: 1750251645192832, End: 1750251645198225, idts: 1750251645198185
+Processing time (μs): 1447
+split : 2, grayscaling: 245, threshold : 742, morphologyEx : 760, Loop duration : 5441, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3847, start: 1750251645198379, End: 1750251645203820, idts: 1750251645203778
+Processing time (μs): 1504
+split : 2, grayscaling: 234, threshold : 728, morphologyEx : 717, Loop duration : 5433, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3899, start: 1750251645203909, End: 1750251645209343, idts: 1750251645209301
+Processing time (μs): 1447
+split : 2, grayscaling: 239, threshold : 743, morphologyEx : 746, Loop duration : 5453, horziontal slcing: 40, vertical slicing:2, trajectory: 1, Recv img: 3873, start: 1750251645209429, End: 1750251645214883, idts: 1750251645214837
+Processing time (μs): 1491
+split : 2, grayscaling: 244, threshold : 812, morphologyEx : 778, Loop duration : 5551, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3872, start: 1750251645215014, End: 1750251645220565, idts: 1750251645220519
+Processing time (μs): 1592
+split : 3, grayscaling: 260, threshold : 752, morphologyEx : 761, Loop duration : 5455, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3850, start: 1750251645220702, End: 1750251645226157, idts: 1750251645226110
+Processing time (μs): 1516
+split : 3, grayscaling: 239, threshold : 726, morphologyEx : 777, Loop duration : 5436, horziontal slcing: 43, vertical slicing:3, trajectory: 3, Recv img: 3834, start: 1750251645226283, End: 1750251645231719, idts: 1750251645231671
+Processing time (μs): 1506
+split : 2, grayscaling: 240, threshold : 784, morphologyEx : 758, Loop duration : 5508, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3878, start: 1750251645231838, End: 1750251645237346, idts: 1750251645237303
+Processing time (μs): 1544
+split : 2, grayscaling: 241, threshold : 731, morphologyEx : 747, Loop duration : 5448, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3880, start: 1750251645237474, End: 1750251645242922, idts: 1750251645242877
+Processing time (μs): 1480
+split : 3, grayscaling: 256, threshold : 783, morphologyEx : 770, Loop duration : 5553, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3907, start: 1750251645243065, End: 1750251645248618, idts: 1750251645248568
+Processing time (μs): 1556
+split : 2, grayscaling: 237, threshold : 748, morphologyEx : 765, Loop duration : 5474, horziontal slcing: 42, vertical slicing:2, trajectory: 3, Recv img: 3867, start: 1750251645248742, End: 1750251645254216, idts: 1750251645254171
+Processing time (μs): 1515
+split : 2, grayscaling: 238, threshold : 755, morphologyEx : 789, Loop duration : 5540, horziontal slcing: 40, vertical slicing:2, trajectory: 3, Recv img: 3905, start: 1750251645254354, End: 1750251645259894, idts: 1750251645259851
+Processing time (μs): 1546
+split : 2, grayscaling: 224, threshold : 709, morphologyEx : 769, Loop duration : 5439, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3874, start: 1750251645260018, End: 1750251645265457, idts: 1750251645265413
+Processing time (μs): 1480
+split : 2, grayscaling: 227, threshold : 712, morphologyEx : 753, Loop duration : 5522, horziontal slcing: 41, vertical slicing:9, trajectory: 1, Recv img: 3961, start: 1750251645265583, End: 1750251645271105, idts: 1750251645271061
+Processing time (μs): 1467
+split : 3, grayscaling: 313, threshold : 853, morphologyEx : 764, Loop duration : 5575, horziontal slcing: 48, vertical slicing:3, trajectory: 1, Recv img: 3862, start: 1750251645271249, End: 1750251645276824, idts: 1750251645276781
+Processing time (μs): 1620
+split : 2, grayscaling: 262, threshold : 787, morphologyEx : 759, Loop duration : 5535, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3893, start: 1750251645276951, End: 1750251645282487, idts: 1750251645282439
+Processing time (μs): 1548
+split : 2, grayscaling: 236, threshold : 760, morphologyEx : 756, Loop duration : 5482, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3876, start: 1750251645283241, End: 1750251645288724, idts: 1750251645288679
+Processing time (μs): 1518
+split : 3, grayscaling: 220, threshold : 706, morphologyEx : 763, Loop duration : 5454, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3895, start: 1750251645288847, End: 1750251645294302, idts: 1750251645294258
+Processing time (μs): 1472
+split : 3, grayscaling: 241, threshold : 740, morphologyEx : 785, Loop duration : 5478, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3862, start: 1750251645294430, End: 1750251645299909, idts: 1750251645299865
+Processing time (μs): 1528
+split : 2, grayscaling: 241, threshold : 742, morphologyEx : 754, Loop duration : 5492, horziontal slcing: 41, vertical slicing:4, trajectory: 3, Recv img: 3902, start: 1750251645300032, End: 1750251645305524, idts: 1750251645305480
+Processing time (μs): 1498
+split : 3, grayscaling: 258, threshold : 733, morphologyEx : 761, Loop duration : 5475, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3889, start: 1750251645305645, End: 1750251645311120, idts: 1750251645311072
+Processing time (μs): 1497
+split : 4, grayscaling: 339, threshold : 861, morphologyEx : 754, Loop duration : 5645, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3916, start: 1750251645311236, End: 1750251645316882, idts: 1750251645316813
+Processing time (μs): 1619
+split : 2, grayscaling: 237, threshold : 743, morphologyEx : 765, Loop duration : 5476, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3877, start: 1750251645316994, End: 1750251645322470, idts: 1750251645322428
+Processing time (μs): 1510
+split : 2, grayscaling: 244, threshold : 780, morphologyEx : 739, Loop duration : 5448, horziontal slcing: 43, vertical slicing:4, trajectory: 3, Recv img: 3836, start: 1750251645322597, End: 1750251645328046, idts: 1750251645328004
+Processing time (μs): 1521
+split : 2, grayscaling: 241, threshold : 752, morphologyEx : 734, Loop duration : 5458, horziontal slcing: 46, vertical slicing:5, trajectory: 1, Recv img: 3871, start: 1750251645328161, End: 1750251645333620, idts: 1750251645333573
+Processing time (μs): 1488
+split : 3, grayscaling: 257, threshold : 749, morphologyEx : 747, Loop duration : 5482, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3892, start: 1750251645333718, End: 1750251645339200, idts: 1750251645339150
+Processing time (μs): 1499
+split : 3, grayscaling: 300, threshold : 790, morphologyEx : 782, Loop duration : 5555, horziontal slcing: 39, vertical slicing:3, trajectory: 0, Recv img: 3893, start: 1750251645339287, End: 1750251645344843, idts: 1750251645344796
+Processing time (μs): 1575
+split : 2, grayscaling: 227, threshold : 715, morphologyEx : 756, Loop duration : 5388, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3827, start: 1750251645344987, End: 1750251645350376, idts: 1750251645350331
+Processing time (μs): 1473
+split : 2, grayscaling: 300, threshold : 792, morphologyEx : 803, Loop duration : 5565, horziontal slcing: 46, vertical slicing:4, trajectory: 1, Recv img: 3873, start: 1750251645350502, End: 1750251645356067, idts: 1750251645356023
+Processing time (μs): 1597
+split : 7, grayscaling: 236, threshold : 736, morphologyEx : 759, Loop duration : 5501, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3912, start: 1750251645356198, End: 1750251645361699, idts: 1750251645361651
+Processing time (μs): 1502
+split : 3, grayscaling: 239, threshold : 719, morphologyEx : 783, Loop duration : 5528, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3931, start: 1750251645361821, End: 1750251645367350, idts: 1750251645367301
+Processing time (μs): 1505
+split : 2, grayscaling: 240, threshold : 734, morphologyEx : 643, Loop duration : 5511, horziontal slcing: 43, vertical slicing:4, trajectory: 1, Recv img: 4029, start: 1750251645367505, End: 1750251645373016, idts: 1750251645372961
+Processing time (μs): 1379
+split : 2, grayscaling: 232, threshold : 727, morphologyEx : 782, Loop duration : 5435, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3834, start: 1750251645373196, End: 1750251645378631, idts: 1750251645378585
+Processing time (μs): 1511
+split : 2, grayscaling: 330, threshold : 865, morphologyEx : 754, Loop duration : 5688, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3975, start: 1750251645378752, End: 1750251645384441, idts: 1750251645384397
+Processing time (μs): 1621
+split : 3, grayscaling: 224, threshold : 712, morphologyEx : 759, Loop duration : 5418, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3854, start: 1750251645384560, End: 1750251645389979, idts: 1750251645389932
+Processing time (μs): 1474
+split : 2, grayscaling: 229, threshold : 702, morphologyEx : 781, Loop duration : 5462, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3887, start: 1750251645390112, End: 1750251645395574, idts: 1750251645395527
+Processing time (μs): 1485
+split : 3, grayscaling: 223, threshold : 723, morphologyEx : 775, Loop duration : 5457, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3864, start: 1750251645395699, End: 1750251645401157, idts: 1750251645401107
+Processing time (μs): 1501
+split : 2, grayscaling: 220, threshold : 708, morphologyEx : 785, Loop duration : 5509, horziontal slcing: 47, vertical slicing:2, trajectory: 3, Recv img: 3918, start: 1750251645401283, End: 1750251645406792, idts: 1750251645406747
+Processing time (μs): 1495
+split : 2, grayscaling: 241, threshold : 770, morphologyEx : 765, Loop duration : 5502, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251645406924, End: 1750251645412427, idts: 1750251645412378
+Processing time (μs): 1537
+split : 2, grayscaling: 220, threshold : 711, morphologyEx : 756, Loop duration : 5415, horziontal slcing: 47, vertical slicing:3, trajectory: 1, Recv img: 3853, start: 1750251645412546, End: 1750251645417962, idts: 1750251645417919
+Processing time (μs): 1469
+split : 2, grayscaling: 257, threshold : 749, morphologyEx : 820, Loop duration : 5549, horziontal slcing: 44, vertical slicing:7, trajectory: 3, Recv img: 3878, start: 1750251645418091, End: 1750251645423640, idts: 1750251645423593
+Processing time (μs): 1571
+split : 2, grayscaling: 272, threshold : 768, morphologyEx : 773, Loop duration : 5534, horziontal slcing: 45, vertical slicing:3, trajectory: 1, Recv img: 3898, start: 1750251645423764, End: 1750251645429299, idts: 1750251645429255
+Processing time (μs): 1543
+split : 2, grayscaling: 272, threshold : 795, morphologyEx : 753, Loop duration : 5532, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3896, start: 1750251645429423, End: 1750251645434956, idts: 1750251645434913
+Processing time (μs): 1550
+split : 3, grayscaling: 251, threshold : 775, morphologyEx : 781, Loop duration : 5536, horziontal slcing: 39, vertical slicing:2, trajectory: 0, Recv img: 3890, start: 1750251645435072, End: 1750251645440609, idts: 1750251645440562
+Processing time (μs): 1559
+split : 2, grayscaling: 247, threshold : 757, morphologyEx : 777, Loop duration : 5518, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3896, start: 1750251645440727, End: 1750251645446246, idts: 1750251645446204
+Processing time (μs): 1536
+split : 2, grayscaling: 255, threshold : 773, morphologyEx : 733, Loop duration : 5490, horziontal slcing: 46, vertical slicing:4, trajectory: 1, Recv img: 3883, start: 1750251645446370, End: 1750251645451861, idts: 1750251645451812
+Processing time (μs): 1508
+split : 2, grayscaling: 257, threshold : 745, morphologyEx : 719, Loop duration : 5475, horziontal slcing: 42, vertical slicing:5, trajectory: 3, Recv img: 3918, start: 1750251645451976, End: 1750251645457452, idts: 1750251645457410
+Processing time (μs): 1466
+split : 3, grayscaling: 263, threshold : 751, morphologyEx : 711, Loop duration : 5430, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3877, start: 1750251645457556, End: 1750251645462986, idts: 1750251645462944
+Processing time (μs): 1465
+split : 2, grayscaling: 249, threshold : 771, morphologyEx : 762, Loop duration : 5506, horziontal slcing: 45, vertical slicing:2, trajectory: 1, Recv img: 3875, start: 1750251645463115, End: 1750251645468622, idts: 1750251645468573
+Processing time (μs): 1535
+split : 2, grayscaling: 231, threshold : 716, morphologyEx : 786, Loop duration : 5457, horziontal slcing: 46, vertical slicing:3, trajectory: 3, Recv img: 3855, start: 1750251645468706, End: 1750251645474163, idts: 1750251645474117
+Processing time (μs): 1504
+split : 3, grayscaling: 270, threshold : 757, morphologyEx : 807, Loop duration : 5514, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3861, start: 1750251645474296, End: 1750251645479810, idts: 1750251645479765
+Processing time (μs): 1567
+split : 3, grayscaling: 285, threshold : 772, morphologyEx : 770, Loop duration : 5525, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3887, start: 1750251645479935, End: 1750251645485460, idts: 1750251645485411
+Processing time (μs): 1545
+split : 3, grayscaling: 250, threshold : 751, morphologyEx : 771, Loop duration : 5451, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3836, start: 1750251645485579, End: 1750251645491030, idts: 1750251645490986
+Processing time (μs): 1525
+split : 3, grayscaling: 243, threshold : 772, morphologyEx : 787, Loop duration : 5536, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3888, start: 1750251645491153, End: 1750251645496689, idts: 1750251645496644
+Processing time (μs): 1562
+split : 2, grayscaling: 226, threshold : 714, morphologyEx : 768, Loop duration : 5454, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3882, start: 1750251645496802, End: 1750251645502257, idts: 1750251645502212
+Processing time (μs): 1484
+split : 2, grayscaling: 275, threshold : 799, morphologyEx : 804, Loop duration : 5591, horziontal slcing: 42, vertical slicing:3, trajectory: 3, Recv img: 3893, start: 1750251645502384, End: 1750251645507975, idts: 1750251645507930
+Processing time (μs): 1605
+split : 2, grayscaling: 225, threshold : 723, morphologyEx : 777, Loop duration : 5472, horziontal slcing: 43, vertical slicing:3, trajectory: 3, Recv img: 3876, start: 1750251645508100, End: 1750251645513572, idts: 1750251645513527
+Processing time (μs): 1502
+split : 2, grayscaling: 239, threshold : 738, morphologyEx : 756, Loop duration : 5458, horziontal slcing: 39, vertical slicing:2, trajectory: 3, Recv img: 3874, start: 1750251645513705, End: 1750251645519163, idts: 1750251645519119
+Processing time (μs): 1496
+split : 2, grayscaling: 253, threshold : 749, morphologyEx : 759, Loop duration : 5474, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3868, start: 1750251645519285, End: 1750251645524760, idts: 1750251645524709
+Processing time (μs): 1510
+split : 2, grayscaling: 243, threshold : 731, morphologyEx : 770, Loop duration : 5500, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3911, start: 1750251645524880, End: 1750251645530381, idts: 1750251645530336
+Processing time (μs): 1503
+split : 3, grayscaling: 241, threshold : 735, morphologyEx : 737, Loop duration : 5443, horziontal slcing: 51, vertical slicing:5, trajectory: 3, Recv img: 3867, start: 1750251645530503, End: 1750251645535946, idts: 1750251645535900
+Processing time (μs): 1475
+split : 2, grayscaling: 417, threshold : 935, morphologyEx : 757, Loop duration : 5850, horziontal slcing: 48, vertical slicing:3, trajectory: 3, Recv img: 4061, start: 1750251645536071, End: 1750251645541921, idts: 1750251645541879
+Processing time (μs): 1694
+split : 2, grayscaling: 223, threshold : 745, morphologyEx : 815, Loop duration : 5530, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251645542045, End: 1750251645547576, idts: 1750251645547521
+Processing time (μs): 1562
+split : 2, grayscaling: 222, threshold : 708, morphologyEx : 798, Loop duration : 5488, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3888, start: 1750251645547744, End: 1750251645553233, idts: 1750251645553187
+Processing time (μs): 1508
+split : 2, grayscaling: 217, threshold : 708, morphologyEx : 764, Loop duration : 5468, horziontal slcing: 40, vertical slicing:3, trajectory: 1, Recv img: 3905, start: 1750251645553364, End: 1750251645558833, idts: 1750251645558787
+Processing time (μs): 1474
+split : 2, grayscaling: 234, threshold : 752, morphologyEx : 775, Loop duration : 5525, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3907, start: 1750251645558961, End: 1750251645564487, idts: 1750251645564441
+Processing time (μs): 1529
+split : 2, grayscaling: 247, threshold : 735, morphologyEx : 768, Loop duration : 5488, horziontal slcing: 47, vertical slicing:2, trajectory: 1, Recv img: 3889, start: 1750251645564614, End: 1750251645570102, idts: 1750251645570058
+Processing time (μs): 1505
+split : 2, grayscaling: 233, threshold : 734, morphologyEx : 806, Loop duration : 5529, horziontal slcing: 42, vertical slicing:3, trajectory: 1, Recv img: 3896, start: 1750251645570224, End: 1750251645575754, idts: 1750251645575708
+Processing time (μs): 1542
+split : 2, grayscaling: 220, threshold : 703, morphologyEx : 768, Loop duration : 5441, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3882, start: 1750251645575880, End: 1750251645581321, idts: 1750251645581277
+Processing time (μs): 1473
+split : 2, grayscaling: 286, threshold : 784, morphologyEx : 742, Loop duration : 5526, horziontal slcing: 41, vertical slicing:3, trajectory: 0, Recv img: 3910, start: 1750251645581449, End: 1750251645586975, idts: 1750251645586932
+Processing time (μs): 1528
+split : 3, grayscaling: 659, threshold : 1150, morphologyEx : 774, Loop duration : 5919, horziontal slcing: 45, vertical slicing:3, trajectory: 3, Recv img: 3893, start: 1750251645587100, End: 1750251645593019, idts: 1750251645592970
+Processing time (μs): 1927
+split : 3, grayscaling: 600, threshold : 1097, morphologyEx : 775, Loop duration : 5831, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3870, start: 1750251645593138, End: 1750251645598970, idts: 1750251645598927
+Processing time (μs): 1875
+split : 3, grayscaling: 338, threshold : 875, morphologyEx : 752, Loop duration : 5569, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3853, start: 1750251645599093, End: 1750251645604662, idts: 1750251645604619
+Processing time (μs): 1630
+split : 3, grayscaling: 566, threshold : 1087, morphologyEx : 754, Loop duration : 5830, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3899, start: 1750251645604780, End: 1750251645610610, idts: 1750251645610567
+Processing time (μs): 1844
+split : 4, grayscaling: 295, threshold : 852, morphologyEx : 683, Loop duration : 5512, horziontal slcing: 41, vertical slicing:9, trajectory: 1, Recv img: 3876, start: 1750251645610735, End: 1750251645616248, idts: 1750251645616199
+Processing time (μs): 1539
+split : 2, grayscaling: 228, threshold : 745, morphologyEx : 760, Loop duration : 5525, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3928, start: 1750251645616375, End: 1750251645621900, idts: 1750251645621857
+Processing time (μs): 1507
+split : 2, grayscaling: 261, threshold : 765, morphologyEx : 804, Loop duration : 5547, horziontal slcing: 44, vertical slicing:3, trajectory: 1, Recv img: 3888, start: 1750251645622016, End: 1750251645627564, idts: 1750251645627522
+Processing time (μs): 1571
+split : 2, grayscaling: 257, threshold : 765, morphologyEx : 757, Loop duration : 5488, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3880, start: 1750251645627685, End: 1750251645633173, idts: 1750251645633132
+Processing time (μs): 1524
+split : 2, grayscaling: 273, threshold : 793, morphologyEx : 770, Loop duration : 5512, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3858, start: 1750251645633293, End: 1750251645638805, idts: 1750251645638760
+Processing time (μs): 1565
+split : 2, grayscaling: 247, threshold : 815, morphologyEx : 755, Loop duration : 5552, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3893, start: 1750251645638974, End: 1750251645644526, idts: 1750251645644485
+Processing time (μs): 1572
+split : 3, grayscaling: 261, threshold : 749, morphologyEx : 737, Loop duration : 5427, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3853, start: 1750251645644643, End: 1750251645650071, idts: 1750251645650026
+Processing time (μs): 1489
+split : 2, grayscaling: 251, threshold : 738, morphologyEx : 781, Loop duration : 5513, horziontal slcing: 59, vertical slicing:7, trajectory: 1, Recv img: 3879, start: 1750251645650174, End: 1750251645655688, idts: 1750251645655641
+Processing time (μs): 1521
+split : 2, grayscaling: 254, threshold : 739, morphologyEx : 766, Loop duration : 5467, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3867, start: 1750251645655784, End: 1750251645661251, idts: 1750251645661201
+Processing time (μs): 1507
+split : 2, grayscaling: 238, threshold : 729, morphologyEx : 749, Loop duration : 5457, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3891, start: 1750251645661334, End: 1750251645666792, idts: 1750251645666745
+Processing time (μs): 1480
+split : 3, grayscaling: 264, threshold : 798, morphologyEx : 743, Loop duration : 5512, horziontal slcing: 45, vertical slicing:2, trajectory: 1, Recv img: 3876, start: 1750251645666921, End: 1750251645672433, idts: 1750251645672387
+Processing time (μs): 1544
+split : 3, grayscaling: 242, threshold : 734, morphologyEx : 772, Loop duration : 5505, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3905, start: 1750251645672554, End: 1750251645678059, idts: 1750251645678008
+Processing time (μs): 1509
+split : 2, grayscaling: 250, threshold : 842, morphologyEx : 705, Loop duration : 5552, horziontal slcing: 42, vertical slicing:11, trajectory: 1, Recv img: 3905, start: 1750251645678177, End: 1750251645683730, idts: 1750251645683685
+Processing time (μs): 1549
+split : 2, grayscaling: 218, threshold : 701, morphologyEx : 784, Loop duration : 5459, horziontal slcing: 47, vertical slicing:3, trajectory: 1, Recv img: 3875, start: 1750251645683870, End: 1750251645689330, idts: 1750251645689283
+Processing time (μs): 1487
+split : 2, grayscaling: 244, threshold : 729, morphologyEx : 786, Loop duration : 5502, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3893, start: 1750251645689444, End: 1750251645694947, idts: 1750251645694899
+Processing time (μs): 1517
+split : 2, grayscaling: 248, threshold : 771, morphologyEx : 750, Loop duration : 5498, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3890, start: 1750251645695072, End: 1750251645700570, idts: 1750251645700526
+Processing time (μs): 1523
+split : 2, grayscaling: 226, threshold : 787, morphologyEx : 670, Loop duration : 5455, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3898, start: 1750251645700694, End: 1750251645706150, idts: 1750251645706099
+Processing time (μs): 1459
+split : 2, grayscaling: 322, threshold : 853, morphologyEx : 838, Loop duration : 5656, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3875, start: 1750251645706291, End: 1750251645711947, idts: 1750251645711903
+Processing time (μs): 1693
+split : 2, grayscaling: 334, threshold : 838, morphologyEx : 779, Loop duration : 5727, horziontal slcing: 46, vertical slicing:3, trajectory: 3, Recv img: 4014, start: 1750251645712059, End: 1750251645717787, idts: 1750251645717743
+Processing time (μs): 1619
+split : 2, grayscaling: 290, threshold : 779, morphologyEx : 830, Loop duration : 5598, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3900, start: 1750251645717912, End: 1750251645723511, idts: 1750251645723466
+Processing time (μs): 1611
+split : 3, grayscaling: 229, threshold : 715, morphologyEx : 758, Loop duration : 5434, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251645723623, End: 1750251645729058, idts: 1750251645729012
+Processing time (μs): 1476
+split : 2, grayscaling: 220, threshold : 742, morphologyEx : 785, Loop duration : 5487, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251645729265, End: 1750251645734753, idts: 1750251645734707
+Processing time (μs): 1529
+split : 2, grayscaling: 234, threshold : 757, morphologyEx : 774, Loop duration : 5486, horziontal slcing: 40, vertical slicing:3, trajectory: 1, Recv img: 3858, start: 1750251645734885, End: 1750251645740372, idts: 1750251645740321
+Processing time (μs): 1533
+split : 3, grayscaling: 220, threshold : 713, morphologyEx : 765, Loop duration : 5504, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3928, start: 1750251645740492, End: 1750251645745997, idts: 1750251645745943
+Processing time (μs): 1481
+split : 2, grayscaling: 222, threshold : 714, morphologyEx : 783, Loop duration : 5510, horziontal slcing: 43, vertical slicing:3, trajectory: 0, Recv img: 3920, start: 1750251645746111, End: 1750251645751622, idts: 1750251645751576
+Processing time (μs): 1499
+split : 2, grayscaling: 229, threshold : 710, morphologyEx : 779, Loop duration : 5455, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3874, start: 1750251645751748, End: 1750251645757204, idts: 1750251645757159
+Processing time (μs): 1491
+split : 2, grayscaling: 231, threshold : 716, morphologyEx : 775, Loop duration : 5481, horziontal slcing: 44, vertical slicing:4, trajectory: 3, Recv img: 3890, start: 1750251645757334, End: 1750251645762816, idts: 1750251645762767
+Processing time (μs): 1493
+split : 3, grayscaling: 290, threshold : 820, morphologyEx : 767, Loop duration : 5562, horziontal slcing: 42, vertical slicing:3, trajectory: 1, Recv img: 3885, start: 1750251645762934, End: 1750251645768496, idts: 1750251645768454
+Processing time (μs): 1590
+split : 3, grayscaling: 269, threshold : 759, morphologyEx : 792, Loop duration : 5510, horziontal slcing: 42, vertical slicing:3, trajectory: 1, Recv img: 3868, start: 1750251645768617, End: 1750251645774128, idts: 1750251645774084
+Processing time (μs): 1554
+split : 2, grayscaling: 230, threshold : 777, morphologyEx : 750, Loop duration : 5592, horziontal slcing: 42, vertical slicing:10, trajectory: 1, Recv img: 3964, start: 1750251645774243, End: 1750251645779836, idts: 1750251645779789
+Processing time (μs): 1529
+split : 2, grayscaling: 235, threshold : 748, morphologyEx : 776, Loop duration : 5497, horziontal slcing: 40, vertical slicing:2, trajectory: 3, Recv img: 3877, start: 1750251645779982, End: 1750251645785479, idts: 1750251645785432
+Processing time (μs): 1526
+split : 2, grayscaling: 250, threshold : 786, morphologyEx : 715, Loop duration : 5474, horziontal slcing: 52, vertical slicing:3, trajectory: 3, Recv img: 3873, start: 1750251645785662, End: 1750251645791137, idts: 1750251645791094
+Processing time (μs): 1503
+split : 3, grayscaling: 244, threshold : 755, morphologyEx : 786, Loop duration : 5470, horziontal slcing: 45, vertical slicing:2, trajectory: 3, Recv img: 3830, start: 1750251645791247, End: 1750251645796718, idts: 1750251645796671
+Processing time (μs): 1544
+split : 2, grayscaling: 249, threshold : 730, morphologyEx : 754, Loop duration : 5455, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3878, start: 1750251645796858, End: 1750251645802313, idts: 1750251645802268
+Processing time (μs): 1486
+split : 3, grayscaling: 248, threshold : 740, morphologyEx : 803, Loop duration : 5505, horziontal slcing: 39, vertical slicing:2, trajectory: 3, Recv img: 3871, start: 1750251645802439, End: 1750251645807945, idts: 1750251645807898
+Processing time (μs): 1546
+split : 2, grayscaling: 254, threshold : 761, morphologyEx : 761, Loop duration : 5516, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3901, start: 1750251645808072, End: 1750251645813588, idts: 1750251645813542
+Processing time (μs): 1524
+split : 2, grayscaling: 247, threshold : 735, morphologyEx : 773, Loop duration : 5491, horziontal slcing: 44, vertical slicing:2, trajectory: 1, Recv img: 3885, start: 1750251645813762, End: 1750251645819253, idts: 1750251645819204
+Processing time (μs): 1510
+split : 8, grayscaling: 319, threshold : 827, morphologyEx : 767, Loop duration : 5508, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3823, start: 1750251645819412, End: 1750251645824920, idts: 1750251645824876
+Processing time (μs): 1602
+split : 2, grayscaling: 268, threshold : 785, morphologyEx : 694, Loop duration : 5504, horziontal slcing: 39, vertical slicing:5, trajectory: 1, Recv img: 3923, start: 1750251645825036, End: 1750251645830541, idts: 1750251645830489
+Processing time (μs): 1481
+split : 2, grayscaling: 249, threshold : 739, morphologyEx : 802, Loop duration : 5493, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3859, start: 1750251645830710, End: 1750251645836204, idts: 1750251645836158
+Processing time (μs): 1543
+split : 2, grayscaling: 223, threshold : 712, morphologyEx : 785, Loop duration : 5480, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3888, start: 1750251645836333, End: 1750251645841814, idts: 1750251645841768
+Processing time (μs): 1499
+split : 2, grayscaling: 304, threshold : 810, morphologyEx : 697, Loop duration : 5533, horziontal slcing: 67, vertical slicing:9, trajectory: 2, Recv img: 3896, start: 1750251645841940, End: 1750251645847474, idts: 1750251645847422
+Processing time (μs): 1509
+split : 2, grayscaling: 236, threshold : 725, morphologyEx : 766, Loop duration : 5429, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3849, start: 1750251645847585, End: 1750251645853015, idts: 1750251645852971
+Processing time (μs): 1493
+split : 2, grayscaling: 234, threshold : 727, morphologyEx : 733, Loop duration : 5450, horziontal slcing: 38, vertical slicing:2, trajectory: 0, Recv img: 3896, start: 1750251645853145, End: 1750251645858595, idts: 1750251645858544
+Processing time (μs): 1462
+split : 2, grayscaling: 234, threshold : 741, morphologyEx : 782, Loop duration : 5497, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3882, start: 1750251645858713, End: 1750251645864210, idts: 1750251645864166
+Processing time (μs): 1525
+split : 2, grayscaling: 223, threshold : 713, morphologyEx : 756, Loop duration : 5446, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3886, start: 1750251645864342, End: 1750251645869788, idts: 1750251645869743
+Processing time (μs): 1471
+split : 2, grayscaling: 244, threshold : 736, morphologyEx : 768, Loop duration : 5534, horziontal slcing: 48, vertical slicing:2, trajectory: 1, Recv img: 3879, start: 1750251645869908, End: 1750251645875443, idts: 1750251645875345
+Processing time (μs): 1506
+split : 2, grayscaling: 231, threshold : 726, morphologyEx : 741, Loop duration : 5439, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3880, start: 1750251645875566, End: 1750251645881005, idts: 1750251645880958
+Processing time (μs): 1469
+split : 2, grayscaling: 233, threshold : 725, morphologyEx : 773, Loop duration : 5435, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3850, start: 1750251645881133, End: 1750251645886569, idts: 1750251645886524
+Processing time (μs): 1500
+split : 2, grayscaling: 228, threshold : 714, morphologyEx : 795, Loop duration : 5466, horziontal slcing: 46, vertical slicing:3, trajectory: 3, Recv img: 3859, start: 1750251645886693, End: 1750251645892159, idts: 1750251645892113
+Processing time (μs): 1511
+split : 3, grayscaling: 251, threshold : 737, morphologyEx : 760, Loop duration : 5434, horziontal slcing: 42, vertical slicing:3, trajectory: 1, Recv img: 3846, start: 1750251645892280, End: 1750251645897714, idts: 1750251645897670
+Processing time (μs): 1500
+split : 3, grayscaling: 256, threshold : 747, morphologyEx : 757, Loop duration : 5470, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3878, start: 1750251645897840, End: 1750251645903311, idts: 1750251645903267
+Processing time (μs): 1507
+split : 2, grayscaling: 273, threshold : 816, morphologyEx : 731, Loop duration : 5437, horziontal slcing: 54, vertical slicing:3, trajectory: 1, Recv img: 3790, start: 1750251645903519, End: 1750251645908957, idts: 1750251645908916
+Processing time (μs): 1549
+split : 2, grayscaling: 246, threshold : 779, morphologyEx : 728, Loop duration : 5449, horziontal slcing: 41, vertical slicing:5, trajectory: 1, Recv img: 3853, start: 1750251645909090, End: 1750251645914540, idts: 1750251645914500
+Processing time (μs): 1509
+split : 2, grayscaling: 252, threshold : 733, morphologyEx : 813, Loop duration : 5452, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3813, start: 1750251645914633, End: 1750251645920085, idts: 1750251645920038
+Processing time (μs): 1548
+split : 2, grayscaling: 239, threshold : 741, morphologyEx : 774, Loop duration : 5456, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3851, start: 1750251645920217, End: 1750251645925673, idts: 1750251645925629
+Processing time (μs): 1517
+split : 2, grayscaling: 236, threshold : 743, morphologyEx : 765, Loop duration : 5449, horziontal slcing: 45, vertical slicing:3, trajectory: 1, Recv img: 3845, start: 1750251645925801, End: 1750251645931250, idts: 1750251645931205
+Processing time (μs): 1510
+split : 2, grayscaling: 282, threshold : 777, morphologyEx : 778, Loop duration : 5501, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3847, start: 1750251645931404, End: 1750251645936906, idts: 1750251645936856
+Processing time (μs): 1557
+split : 2, grayscaling: 242, threshold : 732, morphologyEx : 754, Loop duration : 5421, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3846, start: 1750251645937022, End: 1750251645942443, idts: 1750251645942399
+Processing time (μs): 1488
+split : 2, grayscaling: 239, threshold : 736, morphologyEx : 809, Loop duration : 5529, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3887, start: 1750251645942566, End: 1750251645948095, idts: 1750251645948046
+Processing time (μs): 1547
+split : 2, grayscaling: 229, threshold : 715, morphologyEx : 772, Loop duration : 5444, horziontal slcing: 44, vertical slicing:3, trajectory: 1, Recv img: 3863, start: 1750251645948211, End: 1750251645953656, idts: 1750251645953611
+Processing time (μs): 1489
+split : 7, grayscaling: 227, threshold : 722, morphologyEx : 780, Loop duration : 5471, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3877, start: 1750251645953787, End: 1750251645959258, idts: 1750251645959209
+Processing time (μs): 1509
+split : 2, grayscaling: 255, threshold : 749, morphologyEx : 764, Loop duration : 5451, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3845, start: 1750251645959400, End: 1750251645964851, idts: 1750251645964802
+Processing time (μs): 1515
+split : 2, grayscaling: 221, threshold : 714, morphologyEx : 762, Loop duration : 5436, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3866, start: 1750251645964973, End: 1750251645970409, idts: 1750251645970364
+Processing time (μs): 1478
+split : 2, grayscaling: 227, threshold : 715, morphologyEx : 787, Loop duration : 5454, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3864, start: 1750251645970524, End: 1750251645975979, idts: 1750251645975934
+Processing time (μs): 1504
+split : 2, grayscaling: 254, threshold : 768, morphologyEx : 781, Loop duration : 5543, horziontal slcing: 40, vertical slicing:3, trajectory: 1, Recv img: 3900, start: 1750251645976101, End: 1750251645981645, idts: 1750251645981596
+Processing time (μs): 1551
+split : 2, grayscaling: 217, threshold : 702, morphologyEx : 776, Loop duration : 5413, horziontal slcing: 44, vertical slicing:2, trajectory: 1, Recv img: 3840, start: 1750251645981768, End: 1750251645987181, idts: 1750251645987135
+Processing time (μs): 1480
+split : 2, grayscaling: 252, threshold : 743, morphologyEx : 777, Loop duration : 5492, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3882, start: 1750251645987303, End: 1750251645992796, idts: 1750251645992752
+Processing time (μs): 1522
+split : 2, grayscaling: 226, threshold : 734, morphologyEx : 776, Loop duration : 5466, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3864, start: 1750251645992970, End: 1750251645998436, idts: 1750251645998391
+Processing time (μs): 1512
+split : 2, grayscaling: 264, threshold : 753, morphologyEx : 793, Loop duration : 5506, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3867, start: 1750251645998561, End: 1750251646004067, idts: 1750251646004024
+Processing time (μs): 1548
+split : 3, grayscaling: 240, threshold : 733, morphologyEx : 764, Loop duration : 5449, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3862, start: 1750251646004183, End: 1750251646009633, idts: 1750251646009589
+Processing time (μs): 1500
+split : 2, grayscaling: 332, threshold : 878, morphologyEx : 796, Loop duration : 5680, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3890, start: 1750251646009755, End: 1750251646015435, idts: 1750251646015364
+Processing time (μs): 1676
+split : 2, grayscaling: 274, threshold : 763, morphologyEx : 796, Loop duration : 5459, horziontal slcing: 40, vertical slicing:2, trajectory: 3, Recv img: 3810, start: 1750251646015549, End: 1750251646021009, idts: 1750251646020966
+Processing time (μs): 1561
+split : 3, grayscaling: 239, threshold : 732, morphologyEx : 774, Loop duration : 5464, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3868, start: 1750251646021140, End: 1750251646026604, idts: 1750251646026556
+Processing time (μs): 1509
+split : 2, grayscaling: 238, threshold : 747, morphologyEx : 805, Loop duration : 5495, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3858, start: 1750251646026722, End: 1750251646032218, idts: 1750251646032176
+Processing time (μs): 1554
+split : 2, grayscaling: 254, threshold : 762, morphologyEx : 771, Loop duration : 5524, horziontal slcing: 38, vertical slicing:3, trajectory: 5, Recv img: 3903, start: 1750251646032341, End: 1750251646037865, idts: 1750251646037821
+Processing time (μs): 1535
+split : 8, grayscaling: 238, threshold : 728, morphologyEx : 678, Loop duration : 5364, horziontal slcing: 51, vertical slicing:7, trajectory: 1, Recv img: 3855, start: 1750251646037978, End: 1750251646043342, idts: 1750251646043300
+Processing time (μs): 1414
+split : 2, grayscaling: 272, threshold : 777, morphologyEx : 754, Loop duration : 5413, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3792, start: 1750251646043504, End: 1750251646048917, idts: 1750251646048873
+Processing time (μs): 1533
+split : 2, grayscaling: 233, threshold : 717, morphologyEx : 764, Loop duration : 5438, horziontal slcing: 38, vertical slicing:2, trajectory: 1, Recv img: 3869, start: 1750251646049048, End: 1750251646054486, idts: 1750251646054441
+Processing time (μs): 1483
+split : 2, grayscaling: 235, threshold : 729, morphologyEx : 795, Loop duration : 5504, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3884, start: 1750251646054618, End: 1750251646060122, idts: 1750251646060076
+Processing time (μs): 1526
+split : 2, grayscaling: 266, threshold : 778, morphologyEx : 769, Loop duration : 5508, horziontal slcing: 45, vertical slicing:2, trajectory: 3, Recv img: 3864, start: 1750251646060247, End: 1750251646065756, idts: 1750251646065711
+Processing time (μs): 1549
+split : 2, grayscaling: 243, threshold : 734, morphologyEx : 757, Loop duration : 5447, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3866, start: 1750251646065881, End: 1750251646071329, idts: 1750251646071285
+Processing time (μs): 1493
+split : 3, grayscaling: 279, threshold : 778, morphologyEx : 777, Loop duration : 5463, horziontal slcing: 49, vertical slicing:3, trajectory: 1, Recv img: 3808, start: 1750251646071531, End: 1750251646076994, idts: 1750251646076949
+Processing time (μs): 1558
+split : 2, grayscaling: 240, threshold : 736, morphologyEx : 724, Loop duration : 5412, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3862, start: 1750251646077113, End: 1750251646082526, idts: 1750251646082481
+Processing time (μs): 1462
+split : 2, grayscaling: 224, threshold : 707, morphologyEx : 774, Loop duration : 5428, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3854, start: 1750251646082685, End: 1750251646088113, idts: 1750251646088066
+Processing time (μs): 1483
+split : 2, grayscaling: 269, threshold : 758, morphologyEx : 771, Loop duration : 5468, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3845, start: 1750251646088251, End: 1750251646093719, idts: 1750251646093671
+Processing time (μs): 1531
+split : 2, grayscaling: 223, threshold : 737, morphologyEx : 724, Loop duration : 5421, horziontal slcing: 40, vertical slicing:3, trajectory: 3, Recv img: 3863, start: 1750251646093836, End: 1750251646099258, idts: 1750251646099208
+Processing time (μs): 1463
+split : 2, grayscaling: 264, threshold : 767, morphologyEx : 768, Loop duration : 5458, horziontal slcing: 41, vertical slicing:4, trajectory: 3, Recv img: 3830, start: 1750251646099425, End: 1750251646104883, idts: 1750251646104839
+Processing time (μs): 1537
+split : 2, grayscaling: 224, threshold : 763, morphologyEx : 806, Loop duration : 5507, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3844, start: 1750251646105005, End: 1750251646110512, idts: 1750251646110466
+Processing time (μs): 1571
+split : 2, grayscaling: 230, threshold : 758, morphologyEx : 815, Loop duration : 5540, horziontal slcing: 49, vertical slicing:2, trajectory: 3, Recv img: 3866, start: 1750251646110632, End: 1750251646116173, idts: 1750251646116127
+Processing time (μs): 1575
+split : 2, grayscaling: 248, threshold : 774, morphologyEx : 765, Loop duration : 5485, horziontal slcing: 52, vertical slicing:3, trajectory: 1, Recv img: 3846, start: 1750251646116293, End: 1750251646121778, idts: 1750251646121736
+Processing time (μs): 1541
+split : 3, grayscaling: 241, threshold : 775, morphologyEx : 759, Loop duration : 5546, horziontal slcing: 46, vertical slicing:3, trajectory: 1, Recv img: 3894, start: 1750251646121890, End: 1750251646127436, idts: 1750251646127370
+Processing time (μs): 1537
+split : 3, grayscaling: 269, threshold : 765, morphologyEx : 776, Loop duration : 5443, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3811, start: 1750251646127556, End: 1750251646133000, idts: 1750251646132956
+Processing time (μs): 1544
+split : 4, grayscaling: 547, threshold : 1042, morphologyEx : 779, Loop duration : 5790, horziontal slcing: 45, vertical slicing:3, trajectory: 1, Recv img: 3875, start: 1750251646133126, End: 1750251646138916, idts: 1750251646138872
+Processing time (μs): 1825
+split : 4, grayscaling: 255, threshold : 780, morphologyEx : 780, Loop duration : 5502, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3851, start: 1750251646139040, End: 1750251646144543, idts: 1750251646144496
+Processing time (μs): 1564
+split : 2, grayscaling: 251, threshold : 743, morphologyEx : 768, Loop duration : 5480, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3870, start: 1750251646144661, End: 1750251646150141, idts: 1750251646150086
+Processing time (μs): 1513
+split : 2, grayscaling: 233, threshold : 746, morphologyEx : 820, Loop duration : 5548, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3887, start: 1750251646150258, End: 1750251646155806, idts: 1750251646155758
+Processing time (μs): 1568
+split : 2, grayscaling: 245, threshold : 749, morphologyEx : 718, Loop duration : 5431, horziontal slcing: 41, vertical slicing:12, trajectory: 1, Recv img: 3869, start: 1750251646155922, End: 1750251646161354, idts: 1750251646161314
+Processing time (μs): 1469
+split : 3, grayscaling: 258, threshold : 756, morphologyEx : 737, Loop duration : 5408, horziontal slcing: 47, vertical slicing:4, trajectory: 3, Recv img: 3817, start: 1750251646161474, End: 1750251646166882, idts: 1750251646166840
+Processing time (μs): 1496
+split : 2, grayscaling: 261, threshold : 804, morphologyEx : 763, Loop duration : 5508, horziontal slcing: 39, vertical slicing:4, trajectory: 1, Recv img: 3842, start: 1750251646167028, End: 1750251646172537, idts: 1750251646172483
+Processing time (μs): 1569
+split : 2, grayscaling: 236, threshold : 761, morphologyEx : 758, Loop duration : 5478, horziontal slcing: 39, vertical slicing:2, trajectory: 3, Recv img: 3868, start: 1750251646172618, End: 1750251646178097, idts: 1750251646178051
+Processing time (μs): 1521
+split : 2, grayscaling: 278, threshold : 765, morphologyEx : 792, Loop duration : 5536, horziontal slcing: 43, vertical slicing:3, trajectory: 1, Recv img: 3879, start: 1750251646178231, End: 1750251646183768, idts: 1750251646183717
+Processing time (μs): 1559
+split : 2, grayscaling: 238, threshold : 751, morphologyEx : 763, Loop duration : 5471, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3867, start: 1750251646183886, End: 1750251646189358, idts: 1750251646189313
+Processing time (μs): 1516
+split : 2, grayscaling: 243, threshold : 756, morphologyEx : 763, Loop duration : 5629, horziontal slcing: 48, vertical slicing:12, trajectory: 1, Recv img: 3997, start: 1750251646189484, End: 1750251646195114, idts: 1750251646195064
+Processing time (μs): 1521
+split : 2, grayscaling: 482, threshold : 1021, morphologyEx : 768, Loop duration : 5850, horziontal slcing: 57, vertical slicing:21, trajectory: 1, Recv img: 3923, start: 1750251646195239, End: 1750251646201090, idts: 1750251646201031
+Processing time (μs): 1791
+split : 2, grayscaling: 332, threshold : 825, morphologyEx : 634, Loop duration : 5449, horziontal slcing: 39, vertical slicing:6, trajectory: 1, Recv img: 3834, start: 1750251646201241, End: 1750251646206690, idts: 1750251646206582
+Processing time (μs): 1461
+split : 3, grayscaling: 301, threshold : 789, morphologyEx : 694, Loop duration : 5253, horziontal slcing: 41, vertical slicing:7, trajectory: 1, Recv img: 3663, start: 1750251646206807, End: 1750251646212061, idts: 1750251646212004
+Processing time (μs): 1486
+split : 3, grayscaling: 303, threshold : 789, morphologyEx : 689, Loop duration : 5290, horziontal slcing: 42, vertical slicing:11, trajectory: 1, Recv img: 3702, start: 1750251646212189, End: 1750251646217479, idts: 1750251646217426
+Processing time (μs): 1481
+split : 2, grayscaling: 550, threshold : 1060, morphologyEx : 678, Loop duration : 5697, horziontal slcing: 41, vertical slicing:8, trajectory: 1, Recv img: 3858, start: 1750251646217602, End: 1750251646223300, idts: 1750251646223251
+Processing time (μs): 1740
+split : 2, grayscaling: 241, threshold : 791, morphologyEx : 670, Loop duration : 5412, horziontal slcing: 40, vertical slicing:6, trajectory: 1, Recv img: 3846, start: 1750251646223480, End: 1750251646228892, idts: 1750251646228835
+Processing time (μs): 1463
+split : 3, grayscaling: 243, threshold : 731, morphologyEx : 681, Loop duration : 5422, horziontal slcing: 42, vertical slicing:10, trajectory: 1, Recv img: 3905, start: 1750251646229014, End: 1750251646234436, idts: 1750251646234385
+Processing time (μs): 1415
+split : 2, grayscaling: 242, threshold : 752, morphologyEx : 738, Loop duration : 5473, horziontal slcing: 43, vertical slicing:13, trajectory: 1, Recv img: 3871, start: 1750251646234565, End: 1750251646240038, idts: 1750251646239985
+Processing time (μs): 1492
+split : 2, grayscaling: 273, threshold : 915, morphologyEx : 982, Loop duration : 10419, horziontal slcing: 83, vertical slicing:13, trajectory: 1, Recv img: 8372, start: 1750251646240121, End: 1750251646250540, idts: 1750251646250489
+Processing time (μs): 1899
+split : 2, grayscaling: 251, threshold : 782, morphologyEx : 686, Loop duration : 5872, horziontal slcing: 43, vertical slicing:13, trajectory: 1, Recv img: 4298, start: 1750251646250684, End: 1750251646256556, idts: 1750251646256508
+Processing time (μs): 1470
+split : 2, grayscaling: 297, threshold : 845, morphologyEx : 854, Loop duration : 5913, horziontal slcing: 78, vertical slicing:15, trajectory: 1, Recv img: 4065, start: 1750251646256668, End: 1750251646262581, idts: 1750251646262529
+Processing time (μs): 1701
+split : 3, grayscaling: 276, threshold : 958, morphologyEx : 739, Loop duration : 6326, horziontal slcing: 40, vertical slicing:7, trajectory: 1, Recv img: 4504, start: 1750251646262790, End: 1750251646269116, idts: 1750251646269042
+Processing time (μs): 1700
+split : 2, grayscaling: 353, threshold : 860, morphologyEx : 1031, Loop duration : 6547, horziontal slcing: 79, vertical slicing:20, trajectory: 1, Recv img: 4508, start: 1750251646269231, End: 1750251646275778, idts: 1750251646275731
+Processing time (μs): 1893
+split : 2, grayscaling: 245, threshold : 706, morphologyEx : 755, Loop duration : 5477, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3917, start: 1750251646275939, End: 1750251646281417, idts: 1750251646281364
+Processing time (μs): 1463
+split : 3, grayscaling: 228, threshold : 698, morphologyEx : 876, Loop duration : 5622, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3956, start: 1750251646281546, End: 1750251646287169, idts: 1750251646287124
+Processing time (μs): 1577
+split : 2, grayscaling: 240, threshold : 739, morphologyEx : 781, Loop duration : 6123, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 4510, start: 1750251646287308, End: 1750251646293431, idts: 1750251646293385
+Processing time (μs): 1522
+split : 2, grayscaling: 246, threshold : 735, morphologyEx : 799, Loop duration : 5504, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3878, start: 1750251646293565, End: 1750251646299069, idts: 1750251646299023
+Processing time (μs): 1536
+split : 2, grayscaling: 260, threshold : 786, morphologyEx : 802, Loop duration : 5553, horziontal slcing: 38, vertical slicing:3, trajectory: 5, Recv img: 3873, start: 1750251646299203, End: 1750251646304756, idts: 1750251646304707
+Processing time (μs): 1590
+split : 7, grayscaling: 220, threshold : 709, morphologyEx : 774, Loop duration : 5453, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3876, start: 1750251646304876, End: 1750251646310329, idts: 1750251646310285
+Processing time (μs): 1490
+split : 2, grayscaling: 252, threshold : 739, morphologyEx : 793, Loop duration : 5542, horziontal slcing: 47, vertical slicing:3, trajectory: 1, Recv img: 3912, start: 1750251646310453, End: 1750251646315996, idts: 1750251646315950
+Processing time (μs): 1534
+split : 2, grayscaling: 242, threshold : 724, morphologyEx : 761, Loop duration : 5441, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3863, start: 1750251646316120, End: 1750251646321561, idts: 1750251646321516
+Processing time (μs): 1487
+split : 2, grayscaling: 236, threshold : 738, morphologyEx : 766, Loop duration : 5458, horziontal slcing: 46, vertical slicing:3, trajectory: 3, Recv img: 3857, start: 1750251646321693, End: 1750251646327152, idts: 1750251646327104
+Processing time (μs): 1506
+split : 2, grayscaling: 388, threshold : 890, morphologyEx : 698, Loop duration : 5555, horziontal slcing: 40, vertical slicing:7, trajectory: 1, Recv img: 3850, start: 1750251646327271, End: 1750251646332826, idts: 1750251646332759
+Processing time (μs): 1590
+split : 3, grayscaling: 225, threshold : 719, morphologyEx : 756, Loop duration : 5382, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3813, start: 1750251646332954, End: 1750251646338337, idts: 1750251646338292
+Processing time (μs): 1478
+split : 2, grayscaling: 234, threshold : 749, morphologyEx : 795, Loop duration : 5515, horziontal slcing: 41, vertical slicing:4, trajectory: 1, Recv img: 3878, start: 1750251646338467, End: 1750251646343982, idts: 1750251646343937
+Processing time (μs): 1546
+split : 2, grayscaling: 233, threshold : 725, morphologyEx : 762, Loop duration : 5419, horziontal slcing: 41, vertical slicing:2, trajectory: 0, Recv img: 3842, start: 1750251646344110, End: 1750251646349530, idts: 1750251646349485
+Processing time (μs): 1489
+split : 2, grayscaling: 238, threshold : 724, morphologyEx : 778, Loop duration : 5414, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3823, start: 1750251646349652, End: 1750251646355066, idts: 1750251646355022
+Processing time (μs): 1504
+split : 2, grayscaling: 225, threshold : 785, morphologyEx : 761, Loop duration : 5504, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3868, start: 1750251646355237, End: 1750251646360742, idts: 1750251646360697
+Processing time (μs): 1548
+split : 2, grayscaling: 218, threshold : 720, morphologyEx : 771, Loop duration : 5426, horziontal slcing: 49, vertical slicing:3, trajectory: 3, Recv img: 3835, start: 1750251646360867, End: 1750251646366293, idts: 1750251646366250
+Processing time (μs): 1493
+split : 2, grayscaling: 225, threshold : 723, morphologyEx : 802, Loop duration : 5469, horziontal slcing: 45, vertical slicing:3, trajectory: 0, Recv img: 3847, start: 1750251646366428, End: 1750251646371898, idts: 1750251646371851
+Processing time (μs): 1527
+split : 2, grayscaling: 265, threshold : 756, morphologyEx : 796, Loop duration : 5495, horziontal slcing: 40, vertical slicing:2, trajectory: 1, Recv img: 3849, start: 1750251646372015, End: 1750251646377511, idts: 1750251646377462
+Processing time (μs): 1554
+split : 2, grayscaling: 227, threshold : 712, morphologyEx : 761, Loop duration : 5423, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3862, start: 1750251646377631, End: 1750251646383054, idts: 1750251646383010
+Processing time (μs): 1475
+split : 2, grayscaling: 248, threshold : 771, morphologyEx : 762, Loop duration : 5470, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3848, start: 1750251646383176, End: 1750251646388646, idts: 1750251646388604
+Processing time (μs): 1535
+split : 2, grayscaling: 233, threshold : 754, morphologyEx : 730, Loop duration : 5443, horziontal slcing: 53, vertical slicing:4, trajectory: 1, Recv img: 3860, start: 1750251646388768, End: 1750251646394211, idts: 1750251646394171
+Processing time (μs): 1486
+split : 2, grayscaling: 263, threshold : 767, morphologyEx : 798, Loop duration : 5664, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 4001, start: 1750251646394322, End: 1750251646399987, idts: 1750251646399932
+Processing time (μs): 1567
+split : 2, grayscaling: 247, threshold : 834, morphologyEx : 697, Loop duration : 5570, horziontal slcing: 55, vertical slicing:4, trajectory: 1, Recv img: 3934, start: 1750251646400127, End: 1750251646405698, idts: 1750251646405654
+Processing time (μs): 1533
+split : 3, grayscaling: 256, threshold : 745, morphologyEx : 770, Loop duration : 5447, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3839, start: 1750251646405821, End: 1750251646411269, idts: 1750251646411224
+Processing time (μs): 1518
+split : 2, grayscaling: 264, threshold : 756, morphologyEx : 765, Loop duration : 5429, horziontal slcing: 41, vertical slicing:4, trajectory: 3, Recv img: 3808, start: 1750251646411422, End: 1750251646416851, idts: 1750251646416801
+Processing time (μs): 1523
+split : 3, grayscaling: 226, threshold : 710, morphologyEx : 764, Loop duration : 5416, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3852, start: 1750251646416970, End: 1750251646422386, idts: 1750251646422342
+Processing time (μs): 1477
+split : 2, grayscaling: 255, threshold : 749, morphologyEx : 801, Loop duration : 5519, horziontal slcing: 39, vertical slicing:3, trajectory: 3, Recv img: 3879, start: 1750251646422528, End: 1750251646428048, idts: 1750251646428003
+Processing time (μs): 1552
+split : 2, grayscaling: 228, threshold : 736, morphologyEx : 772, Loop duration : 5448, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3848, start: 1750251646428181, End: 1750251646433630, idts: 1750251646433584
+Processing time (μs): 1510
+split : 2, grayscaling: 268, threshold : 766, morphologyEx : 771, Loop duration : 5498, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251646433761, End: 1750251646439260, idts: 1750251646439214
+Processing time (μs): 1539
+split : 2, grayscaling: 267, threshold : 758, morphologyEx : 765, Loop duration : 5449, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3835, start: 1750251646439499, End: 1750251646444948, idts: 1750251646444902
+Processing time (μs): 1525
+split : 2, grayscaling: 215, threshold : 727, morphologyEx : 766, Loop duration : 5449, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3869, start: 1750251646445084, End: 1750251646450534, idts: 1750251646450491
+Processing time (μs): 1495
+split : 2, grayscaling: 238, threshold : 719, morphologyEx : 783, Loop duration : 5455, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3855, start: 1750251646450658, End: 1750251646456113, idts: 1750251646456063
+Processing time (μs): 1504
+split : 2, grayscaling: 227, threshold : 714, morphologyEx : 785, Loop duration : 5469, horziontal slcing: 46, vertical slicing:2, trajectory: 1, Recv img: 3875, start: 1750251646456243, End: 1750251646461712, idts: 1750251646461667
+Processing time (μs): 1501
+split : 2, grayscaling: 234, threshold : 720, morphologyEx : 784, Loop duration : 5429, horziontal slcing: 40, vertical slicing:2, trajectory: 1, Recv img: 3831, start: 1750251646461839, End: 1750251646467268, idts: 1750251646467220
+Processing time (μs): 1506
+split : 3, grayscaling: 322, threshold : 817, morphologyEx : 770, Loop duration : 5509, horziontal slcing: 43, vertical slicing:3, trajectory: 3, Recv img: 3827, start: 1750251646467421, End: 1750251646472931, idts: 1750251646472886
+Processing time (μs): 1590
+split : 2, grayscaling: 221, threshold : 707, morphologyEx : 760, Loop duration : 5406, horziontal slcing: 46, vertical slicing:3, trajectory: 1, Recv img: 3843, start: 1750251646473050, End: 1750251646478457, idts: 1750251646478412
+Processing time (μs): 1469
+split : 2, grayscaling: 306, threshold : 800, morphologyEx : 784, Loop duration : 5540, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3867, start: 1750251646478574, End: 1750251646484115, idts: 1750251646484072
+Processing time (μs): 1586
+split : 3, grayscaling: 299, threshold : 795, morphologyEx : 765, Loop duration : 5541, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3890, start: 1750251646484233, End: 1750251646489774, idts: 1750251646489730
+Processing time (μs): 1563
+split : 4, grayscaling: 256, threshold : 751, morphologyEx : 767, Loop duration : 5537, horziontal slcing: 38, vertical slicing:3, trajectory: 1, Recv img: 3893, start: 1750251646489896, End: 1750251646495434, idts: 1750251646495352
+Processing time (μs): 1522
+split : 2, grayscaling: 289, threshold : 785, morphologyEx : 770, Loop duration : 5466, horziontal slcing: 41, vertical slicing:2, trajectory: 3, Recv img: 3820, start: 1750251646495550, End: 1750251646501017, idts: 1750251646500974
+Processing time (μs): 1557
+split : 2, grayscaling: 250, threshold : 785, morphologyEx : 710, Loop duration : 5450, horziontal slcing: 45, vertical slicing:3, trajectory: 3, Recv img: 3858, start: 1750251646501141, End: 1750251646506592, idts: 1750251646506548
+Processing time (μs): 1497
+split : 2, grayscaling: 242, threshold : 736, morphologyEx : 760, Loop duration : 5420, horziontal slcing: 40, vertical slicing:5, trajectory: 1, Recv img: 3837, start: 1750251646506695, End: 1750251646512116, idts: 1750251646512075
+Processing time (μs): 1498
+split : 2, grayscaling: 248, threshold : 740, morphologyEx : 735, Loop duration : 5426, horziontal slcing: 40, vertical slicing:5, trajectory: 1, Recv img: 3861, start: 1750251646512210, End: 1750251646517636, idts: 1750251646517593
+Processing time (μs): 1477
+split : 2, grayscaling: 264, threshold : 754, morphologyEx : 749, Loop duration : 5454, horziontal slcing: 47, vertical slicing:2, trajectory: 1, Recv img: 3854, start: 1750251646517717, End: 1750251646523171, idts: 1750251646523125
+Processing time (μs): 1505
+split : 2, grayscaling: 287, threshold : 789, morphologyEx : 771, Loop duration : 5515, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3862, start: 1750251646523302, End: 1750251646528818, idts: 1750251646528772
+Processing time (μs): 1562
+split : 3, grayscaling: 230, threshold : 717, morphologyEx : 751, Loop duration : 5409, horziontal slcing: 39, vertical slicing:3, trajectory: 1, Recv img: 3852, start: 1750251646528994, End: 1750251646534403, idts: 1750251646534358
+Processing time (μs): 1471
+split : 2, grayscaling: 241, threshold : 732, morphologyEx : 794, Loop duration : 5464, horziontal slcing: 38, vertical slicing:3, trajectory: 3, Recv img: 3848, start: 1750251646534528, End: 1750251646539992, idts: 1750251646539947
+Processing time (μs): 1528
+split : 3, grayscaling: 230, threshold : 752, morphologyEx : 746, Loop duration : 5467, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3879, start: 1750251646540111, End: 1750251646545578, idts: 1750251646545531
+Processing time (μs): 1501
+split : 2, grayscaling: 282, threshold : 809, morphologyEx : 764, Loop duration : 5537, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3868, start: 1750251646545714, End: 1750251646551252, idts: 1750251646551203
+Processing time (μs): 1575
+split : 2, grayscaling: 263, threshold : 759, morphologyEx : 777, Loop duration : 5477, horziontal slcing: 46, vertical slicing:3, trajectory: 8, Recv img: 3839, start: 1750251646551371, End: 1750251646556848, idts: 1750251646556804
+Processing time (μs): 1538
+split : 2, grayscaling: 233, threshold : 741, morphologyEx : 746, Loop duration : 5431, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3852, start: 1750251646556977, End: 1750251646562408, idts: 1750251646562364
+Processing time (μs): 1489
+split : 2, grayscaling: 219, threshold : 739, morphologyEx : 828, Loop duration : 5505, horziontal slcing: 40, vertical slicing:2, trajectory: 3, Recv img: 3842, start: 1750251646562531, End: 1750251646568037, idts: 1750251646567987
+Processing time (μs): 1569
+split : 2, grayscaling: 230, threshold : 729, morphologyEx : 758, Loop duration : 5462, horziontal slcing: 43, vertical slicing:2, trajectory: 3, Recv img: 3880, start: 1750251646568162, End: 1750251646573624, idts: 1750251646573580
+Processing time (μs): 1489
+split : 2, grayscaling: 274, threshold : 759, morphologyEx : 773, Loop duration : 5476, horziontal slcing: 40, vertical slicing:2, trajectory: 3, Recv img: 3853, start: 1750251646573751, End: 1750251646579228, idts: 1750251646579184
+Processing time (μs): 1534
+split : 2, grayscaling: 273, threshold : 766, morphologyEx : 781, Loop duration : 5489, horziontal slcing: 41, vertical slicing:3, trajectory: 3, Recv img: 3849, start: 1750251646579357, End: 1750251646584846, idts: 1750251646584802
+Processing time (μs): 1549
+split : 3, grayscaling: 273, threshold : 771, morphologyEx : 770, Loop duration : 5525, horziontal slcing: 41, vertical slicing:2, trajectory: 1, Recv img: 3894, start: 1750251646584965, End: 1750251646590490, idts: 1750251646590445
+Processing time (μs): 1544
+split : 2, grayscaling: 254, threshold : 749, morphologyEx : 825, Loop duration : 5524, horziontal slcing: 42, vertical slicing:3, trajectory: 3, Recv img: 3856, start: 1750251646590613, End: 1750251646596137, idts: 1750251646596094
+Processing time (μs): 1576
+split : 2, grayscaling: 232, threshold : 738, morphologyEx : 754, Loop duration : 5463, horziontal slcing: 43, vertical slicing:2, trajectory: 1, Recv img: 3882, start: 1750251646596259, End: 1750251646601722, idts: 1750251646601681
+Processing time (μs): 1494
+split : 2, grayscaling: 247, threshold : 766, morphologyEx : 758, Loop duration : 5519, horziontal slcing: 47, vertical slicing:3, trajectory: 1, Recv img: 3903, start: 1750251646601842, End: 1750251646607361, idts: 1750251646607321
+Processing time (μs): 1526
+split : 2, grayscaling: 276, threshold : 801, morphologyEx : 753, Loop duration : 5455, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3815, start: 1750251646607507, End: 1750251646612962, idts: 1750251646612922
+Processing time (μs): 1556
+split : 2, grayscaling: 239, threshold : 743, morphologyEx : 719, Loop duration : 5414, horziontal slcing: 46, vertical slicing:4, trajectory: 3, Recv img: 3858, start: 1750251646613078, End: 1750251646618493, idts: 1750251646618453
+Processing time (μs): 1464
+split : 2, grayscaling: 217, threshold : 735, morphologyEx : 724, Loop duration : 5386, horziontal slcing: 43, vertical slicing:12, trajectory: 1, Recv img: 3820, start: 1750251646618651, End: 1750251646624037, idts: 1750251646623988
+Processing time (μs): 1461
+split : 3, grayscaling: 281, threshold : 793, morphologyEx : 669, Loop duration : 5444, horziontal slcing: 48, vertical slicing:4, trajectory: 0, Recv img: 3875, start: 1750251646624183, End: 1750251646629628, idts: 1750251646629575
+Processing time (μs): 1465
+split : 3, grayscaling: 241, threshold : 728, morphologyEx : 754, Loop duration : 5450, horziontal slcing: 46, vertical slicing:2, trajectory: 3, Recv img: 3870, start: 1750251646629745, End: 1750251646635195, idts: 1750251646635150
+Processing time (μs): 1485
+split : 2, grayscaling: 282, threshold : 862, morphologyEx : 757, Loop duration : 5596, horziontal slcing: 38, vertical slicing:2, trajectory: 3, Recv img: 3890, start: 1750251646635331, End: 1750251646640928, idts: 1750251646640885
+Processing time (μs): 1621
+split : 2, grayscaling: 234, threshold : 717, morphologyEx : 763, Loop duration : 5426, horziontal slcing: 39, vertical slicing:2, trajectory: 1, Recv img: 3858, start: 1750251646641051, End: 1750251646646478, idts: 1750251646646433
+Processing time (μs): 1482
+split : 2, grayscaling: 251, threshold : 745, morphologyEx : 828, Loop duration : 5534, horziontal slcing: 41, vertical slicing:3, trajectory: 1, Recv img: 3871, start: 1750251646646602, End: 1750251646652136, idts: 1750251646652092
+Processing time (μs): 1575
+split : 3, grayscaling: 284, threshold : 790, morphologyEx : 770, Loop duration : 5533, horziontal slcing: 43, vertical slicing:3, trajectory: 3, Recv img: 3880, start: 1750251646652257, End: 1750251646657791, idts: 1750251646657747
+Processing time (μs): 1563

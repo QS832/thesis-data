@@ -1,0 +1,96 @@
+| Metric                           | `proc-frame` (OpenCV) | `neon-proc` (NEON) | **Green (`proc-frame`)** | **Green (`neon-proc`)** |
+| -------------------------------- | --------------------- | ------------------ | ------------------------ | ----------------------- |
+| **CPU Cycles**                   | 1,814,584,461         | 2,527,136,889      | 1,755,260,258            | 1,988,514,382           |
+| **Instructions**                 | 1,493,853,827         | 1,838,668,486      | 1,420,147,974            | 1,582,295,482           |
+| **Cache References**             | 564,479,976           | 993,092,258        | 563,104,275              | 727,450,397             |
+| **Cache Misses**                 | 2,362,230             | 2,922,016          | 2,812,202                | 3,067,602               |
+| **Branch Instructions**          | 84,963,669            | 80,364,043         | 79,111,205               | 80,121,402              |
+| **Branch Misses**                | 5,067,651             | 4,873,515          | 4,823,987                | 4,812,859               |
+| **Elapsed Time**                 | 1.14s                 | 1.63s              | 1.14s                    | 1.29s                   |
+| **Instructions per Cycle (IPC)** | 0.82                  | 0.73               | 0.81                     | 0.80                    |
+
+| Metric                     | `go-opti`         | `base-go`         |
+| -------------------------- | ----------------- | ----------------- |
+| **CPU Cycles**             | 1,567,361,348     | 2,253,836,451     |
+| **Instructions**           | 834,177,457       | 1,322,090,252     |
+| **Instructions per Cycle** | 0.53              | 0.59              |
+| **Cache References**       | 460,765,712       | 740,066,618       |
+| **Cache Misses**           | 8,445,762 (1.83%) | 8,968,935 (1.21%) |
+| **Branch Instructions**    | 63,518,016        | 124,061,943       |
+| **Branch Misses**          | 1,990,225 (3.13%) | 3,118,055 (2.51%) |
+| **Elapsed Time**           | 1.01s             | 1.45s             |
+| **User CPU Time**          | 0.96s             | 1.44s             |
+| **System CPU Time**        | 0.38s             | 0.35s             |
+
+For 1000 loops
+Imaging base go
+ Performance counter stats for './bin/imaging':
+
+        9856451028      cpu-cycles:u                                                       
+        6267901684      instructions:u                   #    0.64  insn per cycle         
+        3562305967      cache-references:u                                                 
+          15164707      cache-misses:u                   #    0.426 % of all cache refs    
+         590103973      branch-instructions:u                                              
+          14570443      branch-misses:u                  #    2.47% of all branches        
+   <not supported>      stalled-cycles-frontend:u                                   
+   <not supported>      stalled-cycles-backend:u                                    
+
+      17.574813255 seconds time elapsed
+
+       7.428325000 seconds user
+       1.844705000 seconds sys
+
+Opyimised go
+ Performance counter stats for './bin/imaging':
+
+        6590990549      cpu-cycles:u                                                       
+        4104138172      instructions:u                   #    0.62  insn per cycle         
+        2217511491      cache-references:u                                                 
+          14750063      cache-misses:u                   #    0.665 % of all cache refs    
+         314679226      branch-instructions:u                                              
+           9119806      branch-misses:u                  #    2.90% of all branches        
+   <not supported>      stalled-cycles-frontend:u                                   
+   <not supported>      stalled-cycles-backend:u                                    
+
+      15.380200055 seconds time elapsed
+
+       5.579720000 seconds user
+       1.722159000 seconds sys
+
+
+no flags applied:
+         226755852      cpu-cycles:u                                                       
+          70446772      instructions:u                   #    0.31  insn per cycle         
+          28196824      cache-references:u                                                 
+           6446799      cache-misses:u                   #   22.864 % of all cache refs    
+           6796838      branch-instructions:u                                              
+            423188      branch-misses:u                  #    6.23% of all branches        
+   <not supported>      stalled-cycles-frontend:u                                   
+   <not supported>      stalled-cycles-backend:u                                    
+
+       0.235122813 seconds time elapsed
+
+       0.144956000 seconds user
+       0.054823000 seconds sys
+
+
+
+
+flags applied:
+-O3 -march=armv8-a+simd -mtune=cortex-a53 -funroll-loops -ffast-math
+
+ Performance counter stats for './bin/imaging-cpp':
+
+         226462070      cpu-cycles:u                                                       
+          70419559      instructions:u                   #    0.31  insn per cycle         
+          28187279      cache-references:u                                                 
+           6487734      cache-misses:u                   #   23.017 % of all cache refs    
+           6791482      branch-instructions:u                                              
+            420759      branch-misses:u                  #    6.20% of all branches        
+   <not supported>      stalled-cycles-frontend:u                                   
+   <not supported>      stalled-cycles-backend:u                                    
+
+       0.196166764 seconds time elapsed
+
+       0.155089000 seconds user
+       0.039728000 seconds sys

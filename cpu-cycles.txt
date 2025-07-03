@@ -9,6 +9,7 @@
 | **Elapsed Time**                 | 1.14s                 | 1.63s              | 1.14s                    | 1.29s                   |
 | **Instructions per Cycle (IPC)** | 0.82                  | 0.73               | 0.81                     | 0.80                    |
 
+For 100 loops:
 | Metric                     | `go-opti`         | `base-go`         |
 | -------------------------- | ----------------- | ----------------- |
 | **CPU Cycles**             | 1,567,361,348     | 2,253,836,451     |
@@ -22,6 +23,8 @@
 | **User CPU Time**          | 0.96s             | 1.44s             |
 | **System CPU Time**        | 0.38s             | 0.35s             |
 
+
+RAW DATA / NO FORMAT:
 For 1000 loops
 Imaging base go
  Performance counter stats for './bin/imaging':
